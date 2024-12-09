@@ -11,12 +11,12 @@ _A curated collection of design books that have shaped my professional practice 
 ## Table of Contents
 
 1. 📚[ Business ](https://github.com/robleto/design-books?tab=readme-ov-file#01-business)
-2. 📚 [Product Design](/157a0765760b80d4919dc45f2958d729#157a0765760b8046bc5bf691938d6a6f)
-3. 📚 [UX Research](/157a0765760b80d4919dc45f2958d729#157a0765760b8065925fdb4f5c12ce6a)
+2. 📚 [Product Design](https://github.com/robleto/design-books?tab=readme-ov-file#02-product-design)
+3. 📚 [UX Research](https://github.com/robleto/design-books?tab=readme-ov-file#03-ux-research)
 4. 📚 [Interaction Design](/157a0765760b80d4919dc45f2958d729#157a0765760b80838a8bd5732fb78999)
-5. 📚 [User Interface Design](/157a0765760b80d4919dc45f2958d729#157a0765760b80acbde2c37ca5ce80ef)
-6. 📚 [Beginner Design 101](/157a0765760b80d4919dc45f2958d729#157a0765760b80779fa7ff78b9967034)
-7. 📚 [Design Management](/157a0765760b80d4919dc45f2958d729#157a0765760b802cbaa9cb40b8721887)
+5. 📚 [User Interface Design](https://github.com/robleto/design-books?tab=readme-ov-file#05-user-interface-designer)
+6. 📚 [Beginner Design 101](https://github.com/robleto/design-books?tab=readme-ov-file#06-beginner-design-101)
+7. 📚 [Design Management](https://github.com/robleto/design-books?tab=readme-ov-file#07--design-management)
 
 ---
 
@@ -76,18 +76,18 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A curated selection of UX research books focused on user research methodologies, interview techniques, usability testing approaches, and data analysis frameworks to help researchers conduct effective studies and deliver actionable insights._
 
-- 📗 [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Every-Designer-Needs-Know/dp/0321767535) by Susan M. Weinschenk
-- 📗 [A Project Guide to UX Design: For User Experience Designers in the Field or in the Making](https://www.amazon.com/Project-Guide-UX-Design-Experience/dp/0321815386) by Russ Unger and Carolyn Chandler
-- 📗 [Bottlenecks: Aligning UX Design with User Psychology](https://www.amazon.com/Bottlenecks-Aligning-Design-Psychology-User/dp/0128171896) by David Evans
-- 📗 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) by Don Norman
-- 📗 [Designing for Behavior Change](https://www.amazon.com/Designing-Behavior-Change-Applied-Psychology/dp/1449307728) by Stephen Wendel
-- 📗 [Designing for Emotion](https://www.amazon.com/Designing-Emotion-Aarron-Walter/dp/0321725544) by Aarron Walter
-- 📗 [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Common-Usability/dp/0321965515) by Steve Krug
-- 📗 [The Elements of User Experience: User-Centered Design for the Web](https://www.amazon.com/Elements-User-Experience-Centered-Design/dp/1933820249) by Jesse James Garrett
-- 📗 [Laws of UX](https://www.amazon.com/Laws-UX-Jon-Yablonski/dp/173209897X) by Jon Yablonski
-- 📗 [Observing the User Experience, Second Edition: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Second-Practitioners/dp/0123848681) by Mike Kuniavsky
-- 📗 [Understanding Users: A Practical Guide to User Research Methods](https://www.amazon.com/Understanding-Users-Practical-Research-Methods/dp/0123848690) by Kathy Baxter and Catherine Courage
-- 📗 [The User is Always Right](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) by Steve Mulder
+- 📗 [**100 Things Every Designer Needs to Know About People**](https://www.amazon.com/Things-Every-Designer-Needs-Know/dp/0321767535) _by Susan M. Weinschenk_
+- 📗 [**A Project Guide to UX Design: For User Experience Designers in the Field or in the Making**](https://www.amazon.com/Project-Guide-UX-Design-Experience/dp/0321815386) _by Russ Unger and Carolyn Chandler_
+- 📗 [**Bottlenecks: Aligning UX Design with User Psychology**](https://www.amazon.com/Bottlenecks-Aligning-Design-Psychology-User/dp/0128171896) _by David Evans_
+- 📗 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) _by Don Norman_
+- 📗 [**Designing for Behavior Change**](https://www.amazon.com/Designing-Behavior-Change-Applied-Psychology/dp/1449307728) _by Stephen Wendel_
+- 📗 [**Designing for Emotion**](https://www.amazon.com/Designing-Emotion-Aarron-Walter/dp/0321725544) _by Aarron Walter_
+- 📗 [**Don't Make Me Think: A Common Sense Approach to Web Usability**](https://www.amazon.com/Dont-Make-Think-Common-Usability/dp/0321965515) _by Steve Krug_
+- 📗 [**The Elements of User Experience: User-Centered Design for the Web**](https://www.amazon.com/Elements-User-Experience-Centered-Design/dp/1933820249) _by Jesse James Garrett_
+- 📗 [**Laws of UX**](https://www.amazon.com/Laws-UX-Jon-Yablonski/dp/173209897X) _by Jon Yablonski_
+- 📗 [**Observing the User Experience, Second Edition: A Practitioner's Guide to User Research**](https://www.amazon.com/Observing-User-Experience-Second-Practitioners/dp/0123848681) _by Mike Kuniavsky_
+- 📗 [**Understanding Users: A Practical Guide to User Research Methods**](https://www.amazon.com/Understanding-Users-Practical-Research-Methods/dp/0123848690) _by Kathy Baxter and Catherine Courage_
+- 📗 [**The User is Always Right**](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) _by Steve Mulder_r
 
 ---
 
@@ -95,23 +95,22 @@ _A curated collection of design books that have shaped my professional practice 
 ![image](https://images.unsplash.com/photo-1576153192396-180ecef2a715?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-## 
-04. **Interaction Design**
+## 04. **Interaction Design**
 
 
 > _A comprehensive collection of books focused on interaction design principles, patterns, and best practices. These resources help designers create intuitive and engaging digital experiences through effective interface design, user flows, and interactive elements._
 
-- 📘 [About Face 3: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) by Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel
-- 📘 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465067107) by Don Norman
-- 📘 [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702) by Jenifer Tidwell
-- 📘 [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0262134748) by Bill Moggridge
-- 📘 [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.amazon.com/Emotional-Design-Why-Everyday-Things/dp/0465051343) by Don Norman
-- 📘 [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer-Interaction-ebook/dp/B00KPYG3VY) by Jenny Preece, Helen Sharp, Yvonne Rogers
-- 📘 [Interaction Design: Creating Innovative Applications and Devices](https://www.amazon.com/Interaction-Design-Creating-Innovative-Applications/dp/0123736023) by Dan Saffer
-- 📘 [Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences](https://www.amazon.com/Seductive-Interaction-Design-Playful-Experiences/dp/0321725568) by Stephen Anderson
-- 📘 [The Art of Interaction Design](https://www.amazon.com/Art-Interaction-Design-John-Zimmerman/dp/0131428479) by John Zimmerman
-- 📘 [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) by Rex Hartson and Pardha Pyla
-- 📘 [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) by Rex Hartson and Pardha Pyla
+- 📘 [**About Face 3: The Essentials of Interaction Design**](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) _by Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel_
+- 📘 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465067107) _by Don Norman_
+- 📘 [**Designing Interfaces**](https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702) _by Jenifer Tidwell_
+- 📘 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0262134748) _by Bill Moggridge_
+- 📘 [**Emotional Design: Why We Love (or Hate) Everyday Things**](https://www.amazon.com/Emotional-Design-Why-Everyday-Things/dp/0465051343) _by Don Norman_
+- 📘 [**Interaction Design: Beyond Human-Computer Interaction**](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer-Interaction-ebook/dp/B00KPYG3VY) _by Jenny Preece, Helen Sharp, Yvonne Rogers_
+- 📘 [**Interaction Design: Creating Innovative Applications and Devices**](https://www.amazon.com/Interaction-Design-Creating-Innovative-Applications/dp/0123736023) _by Dan Saffer_
+- 📘 [**Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences**](https://www.amazon.com/Seductive-Interaction-Design-Playful-Experiences/dp/0321725568) _by Stephen Anderson_
+- 📘 [**The Art of Interaction Design**](https://www.amazon.com/Art-Interaction-Design-John-Zimmerman/dp/0131428479) _by John Zimmerman_
+- 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
+- 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_a
 
 ---
 
@@ -128,16 +127,16 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A curated collection of essential UI design books focused on visual design principles, interface patterns, and layout fundamentals to help designers create intuitive and visually appealing user interfaces._
 
-- 📙 [About Face](https://www.amazon.com/About-Face-Interaction-Design-Essentials/dp/1118766571) by Alan Cooper and Robert Reimann
-- 📙 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) by Don Norman
-- 📙 [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jennifer-Tidwell/dp/1491927400) by Jenifer Tidwell
-- 📙 [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0735619670) by Bill Moggridge
-- 📙 [Designing Visual Interfaces](https://www.amazon.com/Designing-Visual-Interfaces-Techniques-User/dp/0134399318) by Kevin Mullet and Darrell Sano
-- 📙 [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) by Jeffrey Zeldman
-- 📙 [The Inmates Are Running the Asylum](https://www.amazon.com/Inmates-Running-Asylum-Industrys-Crazy/dp/0672326140) by Alan Cooper
-- 📙 [Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Usability/dp/0321657292) - Steve Krug
-- 📙 [Sketching User Experiences](https://www.amazon.com/Sketching-User-Experiences-Interactive-Techniques/dp/0123814642) by Bill Buxton
-- 📙 [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) by William Lidwell, Kritina Holden, and Jill Butler
+- 📙[**About Face**](https://www.amazon.com/About-Face-Interaction-Design-Essentials/dp/1118766571)_by Alan Cooper and Robert Reimann_
+- 📙 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) _by Don Norman_
+- 📙 [**Designing Interfaces**](https://www.amazon.com/Designing-Interfaces-Jennifer-Tidwell/dp/1491927400) _by Jenifer Tidwell_
+- 📙 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0735619670) _by Bill Moggridge_
+- 📙 [**Designing Visual Interfaces**](https://www.amazon.com/Designing-Visual-Interfaces-Techniques-User/dp/0134399318) _by Kevin Mullet and Darrell Sano_
+- 📙 [**Designing with Web Standards**](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) _by Jeffrey Zeldman_
+- 📙 [**The Inmates Are Running the Asylum**](https://www.amazon.com/Inmates-Running-Asylum-Industrys-Crazy/dp/0672326140) _by Alan Cooper_
+- 📙 [**Rocket Surgery Made Easy**](https://www.amazon.com/Rocket-Surgery-Made-Easy-Usability/dp/0321657292) _by Steve Krug_
+- 📙 [**Sketching User Experiences**](https://www.amazon.com/Sketching-User-Experiences-Interactive-Techniques/dp/0123814642) _by Bill Buxton_
+- 📙 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) _by William Lidwell, Kritina Holden, and Jill Butler_r
 
 ---
 
@@ -150,24 +149,24 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _An essential reading list for design beginners covering fundamental principles, user-centered design approaches, and core methodologies to build a solid foundation in design practice._
 
-- 📓 [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-Needs-About-People/dp/0132790426) by Susan M. Weinschenk
-- 📓 [Design Is a Job](https://www.amazon.com/Design-Job-Mike-Monteiro/dp/1937557131) by Mike Monteiro
-- 📓 [Design for Real Life](https://www.amazon.com/Design-Real-Life-Empathy-Technology/dp/1933820617) by Eric Meyer and Sara Wachter-Boettcher
-- 📓 [The Design Sprint](https://www.amazon.com/Design-Sprint-Solve-Problems-Validated/dp/0636920051305) by Jake Knapp, John Zeratsky, and Braden Kowitz
-- 📓 [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0785342650) by Bill Moggridge
-- 📓 [Designing with Type](https://www.amazon.com/Designing-Type-James-Craig/dp/0471445228) by James Craig
-- 📓 [Graphic Design Thinking: Beyond Form and Function](https://www.amazon.com/Graphic-Design-Thinking-Beyond-Function/dp/1616890775) by Ellen Lupton
-- 📓 [The Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests](https://www.amazon.com/Handbook-Usability-Testing-Effective-Techniques/dp/0470185477) by Jeffrey Rubin
-- 📓 [How to be a Graphic Designer Without Losing Your Soul](https://www.amazon.com/How-Graphic-Designer-Without-Losing/dp/1786270875) by Adrian Shaughnessy
-- 📓 [The Power of Color in UI Design](https://www.amazon.com/Power-Color-Design-Nick-Babich/dp/0134670048) by Nick Babich
-- 📓 [The Shape of Design](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1457188101) by Frank Chimero
-- 📓 [Solving Product Design Exercises](https://www.amazon.com/Solving-Product-Design-Exercises-Dashinsky/dp/098678631X) by Artiom Dashinsky
-- 📓 [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530020) by William Lidwell
-- 📓 [The User Experience Team of One](https://www.amazon.com/User-Experience-Team-Leah-Buley/dp/1933820074) by Leah Buley
-- 📓 [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) by Rex Hartson and Pardha Pyla
-- 📓 [UX Design for Beginners: A Crash Course in 100 Short Lessons](https://www.amazon.com/UX-Design-Beginners-Crash-Course/dp/1119538050) by James Royal-Lawson, Per Axbom
-- 📓 [The UX Design Process: A Beginner's Guide](https://www.amazon.com/UX-Design-Process-Beginners-Guide/dp/0789751514) by Nick Babich
-- 📓 [The Vignelli canon](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) by Massimo Vignelli
+- 📓 [**100 Things Every Designer Needs to Know About People**](https://www.amazon.com/Things-Designer-Needs-About-People/dp/0132790426) _by Susan M. Weinschenk_
+- 📓 [**Design Is a Job**](https://www.amazon.com/Design-Job-Mike-Monteiro/dp/1937557131) _by Mike Monteiro_
+- 📓 [**Design for Real Life**](https://www.amazon.com/Design-Real-Life-Empathy-Technology/dp/1933820617) _by Eric Meyer and Sara Wachter-Boettcher_
+- 📓 [**The Design Sprint**](https://www.amazon.com/Design-Sprint-Solve-Problems-Validated/dp/0636920051305) _by Jake Knapp, John Zeratsky, and Braden Kowitz_
+- 📓 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0785342650) _by Bill Moggridge_
+- 📓 [**Designing with Type**](https://www.amazon.com/Designing-Type-James-Craig/dp/0471445228) _by James Craig_
+- 📓 [**Graphic Design Thinking: Beyond Form and Function**](https://www.amazon.com/Graphic-Design-Thinking-Beyond-Function/dp/1616890775) _by Ellen Lupton_
+- 📓 [**The Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests**](https://www.amazon.com/Handbook-Usability-Testing-Effective-Techniques/dp/0470185477) _by Jeffrey Rubin_
+- 📓 [**How to be a Graphic Designer Without Losing Your Soul**](https://www.amazon.com/How-Graphic-Designer-Without-Losing/dp/1786270875) _by Adrian Shaughnessy_
+- 📓 [**The Power of Color in UI Design**](https://www.amazon.com/Power-Color-Design-Nick-Babich/dp/0134670048) _by Nick Babich_
+- 📓 [**The Shape of Design**](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1457188101) _by Frank Chimero_
+- 📓 [**Solving Product Design Exercises**](https://www.amazon.com/Solving-Product-Design-Exercises-Dashinsky/dp/098678631X) _by Artiom Dashinsky_
+- 📓 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530020) _by William Lidwell_
+- 📓 [**The User Experience Team of One**](https://www.amazon.com/User-Experience-Team-Leah-Buley/dp/1933820074) _by Leah Buley_
+- 📓 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
+- 📓 [**UX Design for Beginners: A Crash Course in 100 Short Lessons**](https://www.amazon.com/UX-Design-Beginners-Crash-Course/dp/1119538050) _by James Royal-Lawson, Per Axbom_
+- 📓 [**The UX Design Process: A Beginner's Guide**](https://www.amazon.com/UX-Design-Process-Beginners-Guide/dp/0789751514) _by Nick Babich_
+- 📓 [**The Vignelli canon**](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) _by Massimo Vignelli_i
 
 ---
 
@@ -180,17 +179,17 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A collection of essential books for design managers and leaders covering team management, product strategy, organizational design, and leadership principles to effectively guide design teams and drive innovation._
 
-- 📒 [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Talking-When-Stakes/dp/0071771328) by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
-- 📒 [Design Leadership](https://www.amazon.com/Design-Leadership-Creating-Organizations-Experience/dp/1491953286) by Richard Banfield
-- 📒 [The Design Thinking Playbook](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovation/dp/1119555179) by Michael Lewrick, Patrick Link, and Larry Leifer
-- 📒 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) by Daniel H. Pink
-- 📒 [Inspired: How To Create Tech Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) by Marty Cagan
-- 📒 [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Launch-Products/dp/1491973760) by Dan Olsen
-- 📒 [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Development/dp/1484231147) by Michael Lopp
-- 📒 [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by Camille Fournier
-- 📒 [Org Design for Design Orgs](https://www.amazon.com/Org-Design-Design-Organizations-Experience/dp/1491953283) by Peter Merholz
-- 📒 [The Power of Intentional Leadership](https://www.amazon.com/Power-Intentional-Leadership-Create-Organization/dp/1633694418) by Joanne Miller
-- 📒 [Scaling Up Excellence](https://www.amazon.com/Scaling-Up-Excellence-Getting-More/dp/0804137382) by Robert Sutton and Huggy Rao
+- 📒 [**Crucial Conversations: Tools for Talking When Stakes are High**](https://www.amazon.com/Crucial-Conversations-Talking-When-Stakes/dp/0071771328) _by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler_
+- 📒 [**Design Leadership**](https://www.amazon.com/Design-Leadership-Creating-Organizations-Experience/dp/1491953286) _by Richard Banfield_
+- 📒 [**The Design Thinking Playbook**](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovation/dp/1119555179) _by Michael Lewrick, Patrick Link, and Larry Leifer_
+- 📒 [**Drive: The Surprising Truth About What Motivates Us**](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) _by Daniel H. Pink_
+- 📒 [**Inspired: How To Create Tech Products Customers Love**](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) _by Marty Cagan_
+- 📒 [**The Lean Product Playbook**](https://www.amazon.com/Lean-Product-Playbook-Launch-Products/dp/1491973760) _by Dan Olsen_
+- 📒 [**Managing Humans**](https://www.amazon.com/Managing-Humans-Humorous-Software-Development/dp/1484231147) _by Michael Lopp_
+- 📒 [**The Manager's Path**](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) _by Camille Fournier_
+- 📒 [**Org Design for Design Orgs**](https://www.amazon.com/Org-Design-Design-Organizations-Experience/dp/1491953283) _by Peter Merholz_
+- 📒 [**The Power of Intentional Leadership**](https://www.amazon.com/Power-Intentional-Leadership-Create-Organization/dp/1633694418) _by Joanne Miller_
+- 📒 [**Scaling Up Excellence**](https://www.amazon.com/Scaling-Up-Excellence-Getting-More/db/0804137382) _by Robert Sutton and Huggy Rao_
 
 
 
