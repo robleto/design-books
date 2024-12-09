@@ -1,5 +1,5 @@
 
-![design-books2x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/d8d1ecb0-bb6e-4670-9d7b-33a23c0f5332/design-books2x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T210409Z&X-Amz-Expires=3600&X-Amz-Signature=0e6b79ad0abe8d40a094bb7ceb7cb9f75830c39b89901628ea33e729cba982bd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T210725Z&X-Amz-Expires=3600&X-Amz-Signature=20727278b5cc96aea2bd6904f4eb5d11bcb1e0a2acd993170ce0e69a2fd61da0&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Design Books
@@ -42,6 +42,9 @@ _A curated collection of design books that have shaped my professional practice 
 - 📔 [**Sprint**](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) _by Jake Knapp_
 - 📔 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) _by William Lidwell, Kritina Holden, and Jill Butlern_n
 
+.
+
+
 ---
 
 
@@ -69,6 +72,9 @@ _A curated collection of design books that have shaped my professional practice 
 - 📕 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253008X) _by William Lidwell, Kritina Holden, and Jill Butler_
 - 📕 [**UX Strategy: How to Devise Innovative Digital Products that People Want**](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) _by Jaime Levy_n
 
+.
+
+
 ---
 
 
@@ -93,6 +99,9 @@ _A curated collection of design books that have shaped my professional practice 
 - 📗 [**Understanding Users: A Practical Guide to User Research Methods**](https://www.amazon.com/Understanding-Users-Practical-Research-Methods/dp/0123848690) _by Kathy Baxter and Catherine Courage_
 - 📗 [**The User is Always Right**](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) _by Steve Mulder_r
 
+.
+
+
 ---
 
 
@@ -115,6 +124,9 @@ _A curated collection of design books that have shaped my professional practice 
 - 📘 [**The Art of Interaction Design**](https://www.amazon.com/Art-Interaction-Design-John-Zimmerman/dp/0131428479) _by John Zimmerman_
 - 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
 - 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_a
+
+.
+
 
 ---
 
@@ -141,6 +153,9 @@ _A curated collection of design books that have shaped my professional practice 
 - 📙 [**Rocket Surgery Made Easy**](https://www.amazon.com/Rocket-Surgery-Made-Easy-Usability/dp/0321657292) _by Steve Krug_
 - 📙 [**Sketching User Experiences**](https://www.amazon.com/Sketching-User-Experiences-Interactive-Techniques/dp/0123814642) _by Bill Buxton_
 - 📙 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) _by William Lidwell, Kritina Holden, and Jill Butler_r
+
+.
+
 
 ---
 
@@ -172,6 +187,9 @@ _A curated collection of design books that have shaped my professional practice 
 - 📓 [**The UX Design Process: A Beginner's Guide**](https://www.amazon.com/UX-Design-Process-Beginners-Guide/dp/0789751514) _by Nick Babich_
 - 📓 [**The Vignelli canon**](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) _by Massimo Vignelli_i
 
+.
+
+
 ---
 
 
@@ -195,6 +213,6 @@ _A curated collection of design books that have shaped my professional practice 
 - 📒 [**The Power of Intentional Leadership**](https://www.amazon.com/Power-Intentional-Leadership-Create-Organization/dp/1633694418) _by Joanne Miller_
 - 📒 [**Scaling Up Excellence**](https://www.amazon.com/Scaling-Up-Excellence-Getting-More/db/0804137382) _by Robert Sutton and Huggy Rao_
 
-
+.
 
 
