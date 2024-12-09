@@ -29,22 +29,14 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A curated selection of business books focusing on innovation, product development, and organizational growth. Includes foundational works on startup methodology, design thinking, and business transformation strategies._
 
-- _📔_ [**Creativity**](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58)
-_by Ed Catmull_
-- _📔_ [**Crossing the Chasm**](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
-_by Geoffrey Moore_
-- _📔_ [**Good to Great**](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
-_by Jim Collins_
-- _📔_ [**Inspired: How to Create Tech Products Customers Love**](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X)
-_by Marty Cagann_
-- _📔_ [**The Innovator's Dilemma**](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244)
-_by Clayton Christensen_
-- _📔_ [**The Lean Startup**](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-_by Eric Ries_
-- _📔_ [**Sprint**](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X)
-_by Jake Knapp_
-- _📔_ [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X)
-_by William Lidwell, Kritina Holden, and Jill Butler_n
+- 📔 [**Creativity**](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58) _by Ed Catmull_
+- 📔 [**Crossing the Chasm**](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) _by Geoffrey Moore_
+- 📔 [**Good to Great**](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) _by Jim Collins_
+- 📔 [**Inspired: How to Create Tech Products Customers Love**](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) _by Marty Cagann_
+- 📔 [**The Innovator's Dilemma**](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244) _by Clayton Christensen_
+- 📔 [**The Lean Startup**](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) _by Eric Ries_
+- 📔 [**Sprint**](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) _by Jake Knapp_
+- 📔 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) _by William Lidwell, Kritina Holden, and Jill Butlern_n
 
 ---
 
@@ -57,21 +49,21 @@ _by William Lidwell, Kritina Holden, and Jill Butler_n
 
 > _A curated list of essential product design books covering user experience fundamentals, behavioral psychology, product strategy, and design thinking methodologies. These resources help designers create engaging digital products through proven frameworks and research-backed principles._
 
-- 📕 [Build Better Products](https://www.amazon.com/Build-Better-Products-Centered-Development/dp/1491971444) by Laura Klein
-- 📕 [The Shape of Design](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1940282050) by Frank Chimero
-- 📕 [The Design Thinking Playbook](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovators/dp/1119431052) by Michael Lewrick, Patrick Link, and Larry Leifer
-- 📕 [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0738999320) by Bill Moggridge
-- 📕 [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) - Steve Krug
-- 📕 [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
-- 📕 [The Inmates are Running the Asylum](https://www.amazon.com/Inmates-Running-Asylum-Insane-Situations/dp/0133173586) by Alan Cooper
-- 📕 [Lean UX](https://www.amazon.com/Lean-UX-Designers-Developers-Collaboration/dp/1491953608) by Jeff Gothelf and Josh Seiden
-- 📕 [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Launch-Brilliant/dp/1491974514) by Dan Olsen
-- 📕 [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Fried and David Heinemeier Hansson
-- 📕 [Scaling Up Excellence](https://www.amazon.com/Scaling-Up-Excellence-Settling-Less/dp/0804141213) by Robert Sutton and Huggy Rao
-- 📕 [Sprint](https://www.amazon.com/Sprint-Solve-Big-Problems-Little-Time/dp/150112174X) by Jake Knapp, John Zeratsky, and Braden Kowitz
-- 📕 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Donald A. Norman
-- 📕 [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253008X) by William Lidwell, Kritina Holden, and Jill Butler
-- 📕 [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) by Jaime Levyn
+- 📕 [**Build Better Products**](https://www.amazon.com/Build-Better-Products-Centered-Development/dp/1491971444) _by Laura Klein_
+- 📕 [**The Shape of Design**](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1940282050) _by Frank Chimero_
+- 📕 [**The Design Thinking Playbook**](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovators/dp/1119431052) _by Michael Lewrick, Patrick Link, and Larry Leifer_
+- 📕 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0738999320) _by Bill Moggridge_
+- 📕 [**Don't Make Me Think**](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) _by Steve Krug_
+- 📕 [**Hooked**](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) _by Nir Eyal_
+- 📕 [**The Inmates are Running the Asylum**](https://www.amazon.com/Inmates-Running-Asylum-Insane-Situations/dp/0133173586) _by Alan Cooper_
+- 📕 [**Lean UX**](https://www.amazon.com/Lean-UX-Designers-Developers-Collaboration/dp/1491953608) _by Jeff Gothelf and Josh Seiden_
+- 📕 [**The Lean Product Playbook**](https://www.amazon.com/Lean-Product-Playbook-Launch-Brilliant/dp/1491974514) _by Dan Olsen_
+- 📕 [**Rework**](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) _by Jason Fried and David Heinemeier Hansson_
+- 📕 [**Scaling Up Excellence**](https://www.amazon.com/Scaling-Up-Excellence-Settling-Less/dp/0804141213) _by Robert Sutton and Huggy Rao_
+- 📕 [**Sprint**](https://www.amazon.com/Sprint-Solve-Big-Problems-Little-Time/dp/150112174X) _by Jake Knapp, John Zeratsky, and Braden Kowitz_
+- 📕 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) _by Donald A. Norman_
+- 📕 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253008X) _by William Lidwell, Kritina Holden, and Jill Butler_
+- 📕 [**UX Strategy: How to Devise Innovative Digital Products that People Want**](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) _by Jaime Levy_n
 
 ---
 
