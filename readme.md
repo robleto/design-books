@@ -10,7 +10,7 @@ _A curated collection of design books that have shaped my professional practice 
 
 ## Table of Contents
 
-1. 📚 [Business ](/157a0765760b80d4919dc45f2958d729#157a0765760b8046a48ff0e31e2f2712)
+1. 📚[ Business ](https://github.com/robleto/design-books?tab=readme-ov-file#01-business)
 2. 📚 [Product Design](/157a0765760b80d4919dc45f2958d729#157a0765760b8046bc5bf691938d6a6f)
 3. 📚 [UX Research](/157a0765760b80d4919dc45f2958d729#157a0765760b8065925fdb4f5c12ce6a)
 4. 📚 [Interaction Design](/157a0765760b80d4919dc45f2958d729#157a0765760b80838a8bd5732fb78999)
@@ -29,14 +29,22 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A curated selection of business books focusing on innovation, product development, and organizational growth. Includes foundational works on startup methodology, design thinking, and business transformation strategies._
 
-- 📔 [Creativity](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58) by Ed Catmull
-- 📔 [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by Geoffrey Moore
-- 📔 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) by Jim Collins
-- 📔 [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) by Marty Cagann
-- 📔 [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244) by Clayton Christensen
-- 📔 [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
-- 📔 [Sprint](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) by Jake Knapp
-- 📔 [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) by William Lidwell, Kritina Holden, and Jill Butlern
+- _📔_ [**Creativity**](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58)
+_by Ed Catmull_
+- _📔_ [**Crossing the Chasm**](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+_by Geoffrey Moore_
+- _📔_ [**Good to Great**](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+_by Jim Collins_
+- _📔_ [**Inspired: How to Create Tech Products Customers Love**](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X)
+_by Marty Cagann_
+- _📔_ [**The Innovator's Dilemma**](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244)
+_by Clayton Christensen_
+- _📔_ [**The Lean Startup**](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+_by Eric Ries_
+- _📔_ [**Sprint**](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X)
+_by Jake Knapp_
+- _📔_ [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X)
+_by William Lidwell, Kritina Holden, and Jill Butler_n
 
 ---
 
@@ -44,8 +52,7 @@ _A curated collection of design books that have shaped my professional practice 
 ![image](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-## 
-02. **Product Design**
+## 02. **Product Design**
 
 
 > _A curated list of essential product design books covering user experience fundamentals, behavioral psychology, product strategy, and design thinking methodologies. These resources help designers create engaging digital products through proven frameworks and research-backed principles._
@@ -72,8 +79,7 @@ _A curated collection of design books that have shaped my professional practice 
 ![image](https://images.unsplash.com/photo-1501290741922-b56c0d0884af?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-## 
-03. **UX Research**
+## 03. **UX Research**
 
 
 > _A curated selection of UX research books focused on user research methodologies, interview techniques, usability testing approaches, and data analysis frameworks to help researchers conduct effective studies and deliver actionable insights._
