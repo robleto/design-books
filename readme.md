@@ -1,5 +1,5 @@
 
-![design-books2x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/d8d1ecb0-bb6e-4670-9d7b-33a23c0f5332/design-books2x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T210202Z&X-Amz-Expires=3600&X-Amz-Signature=ec8c36d243f08993a3aecd0358de1cefbb4326550f5fc19f43aab4c4a4000266&X-Amz-SignedHeaders=host&x-id=GetObject)
+![design-books2x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/d8d1ecb0-bb6e-4670-9d7b-33a23c0f5332/design-books2x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T210314Z&X-Amz-Expires=3600&X-Amz-Signature=73f8930c338ce86851abcc46c07f6f6dab427083f5772589e8bdfa92887a92ba&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Design Books
@@ -13,7 +13,7 @@ _A curated collection of design books that have shaped my professional practice 
 1. 📚[ Business ](https://github.com/robleto/design-books?tab=readme-ov-file#01-business)
 2. 📚 [Product Design](https://github.com/robleto/design-books?tab=readme-ov-file#02-product-design)
 3. 📚 [UX Research](https://github.com/robleto/design-books?tab=readme-ov-file#03-ux-research)
-4. 📚 [Interaction Design](/157a0765760b80d4919dc45f2958d729#157a0765760b80838a8bd5732fb78999)
+4. 📚 [Interaction Design](https://github.com/robleto/design-books?tab=readme-ov-file#04-interaction-design)
 5. 📚 [User Interface Design](https://github.com/robleto/design-books?tab=readme-ov-file#05-user-interface-designer)
 6. 📚 [Beginner Design 101](https://github.com/robleto/design-books?tab=readme-ov-file#06-beginner-design-101)
 7. 📚 [Design Management](https://github.com/robleto/design-books?tab=readme-ov-file#07--design-management)
