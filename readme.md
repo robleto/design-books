@@ -1,5 +1,5 @@
 
-![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T210725Z&X-Amz-Expires=3600&X-Amz-Signature=20727278b5cc96aea2bd6904f4eb5d11bcb1e0a2acd993170ce0e69a2fd61da0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T211727Z&X-Amz-Expires=3600&X-Amz-Signature=89fc07f8e03b91a81ed0c0ced38e35101712ad74289f26403304ae228f0b3d6d&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Design Books
@@ -25,7 +25,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1431540015161-0bf868a2d407?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![header-01-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/8c5fa50f-4212-42ee-9bad-5d106354390c/header-01-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T211726Z&X-Amz-Expires=3600&X-Amz-Signature=f8851168d91a8d6cf7fb4e468b3244855fa041b4245c3735afdcade8b3233602&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 01. Business
