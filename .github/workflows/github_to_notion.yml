@@ -1,0 +1,35 @@
+name: Github to Notion Sync
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-notion:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout Repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Step 3: Install Dependencies
+      - name: Install dependencies
+        run: |
+          npm install @notionhq/client dotenv
+
+      # Step 4: Update Notion Page
+      - name: Update Notion Page
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+          GITHUB_COMMIT_MSG: "${{ github.event.head_commit.message }}"
+        run: |
+          node ./project/update-notion.js

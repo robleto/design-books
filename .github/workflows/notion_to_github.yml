@@ -1,0 +1,78 @@
+name: Notion to Github Sync
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write # Ensures write permissions for GITHUB_TOKEN
+
+jobs:
+  fetch-notion-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Ensures full history for pull/rebase
+
+      # Step 2: Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Step 3: Install dependencies in 'project' directory
+      - name: Install dependencies
+        working-directory: ./project
+        run: npm install
+
+      # Step 4: Fetch Notion Content (Debugging Output)
+      - name: Fetch Notion Content
+        working-directory: ./project
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+        run: |
+          echo "Using API Key: ${NOTION_API_KEY:0:4}***"
+          echo "Using Page ID: ${NOTION_PAGE_ID}"
+          node notion-sync.js > notion-output.log
+          echo "Fetched Notion Content:"
+          cat notion-output.log
+
+      # Step 5: Configure Git
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      # Step 6: Pull Remote Changes Before Committing
+      - name: Pull Remote Changes
+        run: |
+          git fetch origin main
+          git pull --rebase origin main || true
+
+      # Step 7: Track Untracked Files and Debug Changes
+      - name: Track Changes and Debug
+        run: |
+          echo "Staging Files for Commit:"
+          git status
+          git add -A
+          git status
+
+      # Step 8: Force Commit and Push Changes
+      - name: Commit and Push Changes
+        run: |
+          git commit -m "Update: Fetched new Notion content" --allow-empty
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 9: Final Debugging Output
+      - name: Confirm Push Success
+        run: |
+          echo "Latest commit:"
+          git log -1
