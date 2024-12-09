@@ -1,5 +1,5 @@
 
-![image](https://images.unsplash.com/photo-1635498665758-cba2201f76dc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![design-books2x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/d8d1ecb0-bb6e-4670-9d7b-33a23c0f5332/design-books2x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241209T210202Z&X-Amz-Expires=3600&X-Amz-Signature=ec8c36d243f08993a3aecd0358de1cefbb4326550f5fc19f43aab4c4a4000266&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Design Books
