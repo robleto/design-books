@@ -1,5 +1,5 @@
 
-![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160341Z&X-Amz-Expires=3600&X-Amz-Signature=3a5c76cc6cd750f0bca60005097c8874ea0c65d0bcf4ca1c074ce8b0e20147fb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170325Z&X-Amz-Expires=3600&X-Amz-Signature=f5534c04fa27d16209039ef0e7c112826d172c883ad9dc57f729819c680876d6&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Design Books
@@ -25,7 +25,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-01-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/510170de-ce52-4cd7-b737-d1cb60b6ee64/header-01-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160341Z&X-Amz-Expires=3600&X-Amz-Signature=21a9058e7d04668c9b57492310e015359299a40001a42d6ca0255e3fdf5ee096&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-01-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/510170de-ce52-4cd7-b737-d1cb60b6ee64/header-01-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170325Z&X-Amz-Expires=3600&X-Amz-Signature=b12a11ca7d95939a488f9ea7e635eb827fb61b357f9327fb4ec52ebf9d625566&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 01. Business
@@ -40,7 +40,7 @@ _A curated collection of design books that have shaped my professional practice 
 - 📔 [**The Innovator's Dilemma**](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244) _by Clayton Christensen_
 - 📔 [**The Lean Startup**](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) _by Eric Ries_
 - 📔 [**Sprint**](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) _by Jake Knapp_
-- 📔 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) _by William Lidwell, Kritina Holden, and Jill Butlern_n
+- 📔 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) _by William Lidwell, Kritina Holden, and Jill Butler_
 
 .
 
@@ -48,7 +48,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-02-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/b462d603-aa49-4b85-a3c7-105c685cd471/header-02-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160341Z&X-Amz-Expires=3600&X-Amz-Signature=724d5f6d08ec16d48e98759795380bc2af477befa976d6347d1c2846a2b5db01&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-02-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/b462d603-aa49-4b85-a3c7-105c685cd471/header-02-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170325Z&X-Amz-Expires=3600&X-Amz-Signature=93a6bc2839968b99179eecdfb195b073df3582689472af2c66f09bb62d23c536&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 02. **Product Design**
@@ -70,7 +70,7 @@ _A curated collection of design books that have shaped my professional practice 
 - 📕 [**Sprint**](https://www.amazon.com/Sprint-Solve-Big-Problems-Little-Time/dp/150112174X) _by Jake Knapp, John Zeratsky, and Braden Kowitz_
 - 📕 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) _by Donald A. Norman_
 - 📕 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253008X) _by William Lidwell, Kritina Holden, and Jill Butler_
-- 📕 [**UX Strategy: How to Devise Innovative Digital Products that People Want**](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) _by Jaime Levy_n
+- 📕 [**UX Strategy: How to Devise Innovative Digital Products that People Want**](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) _by Jaime Levy_
 
 .
 
@@ -78,7 +78,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-03-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/a86ab25e-c593-4759-9fdd-e4d5a95ec4f9/header-03-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160342Z&X-Amz-Expires=3600&X-Amz-Signature=b323bf5611e269050aa190c884fa8aaf5bf2b433f27c73776dfc7021ae1042eb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-03-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/a86ab25e-c593-4759-9fdd-e4d5a95ec4f9/header-03-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170325Z&X-Amz-Expires=3600&X-Amz-Signature=e937442c5ad5b3b28002f3bb63ef29341523015f32606da4a04d0117b3979a09&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 03. **UX Research**
@@ -97,7 +97,7 @@ _A curated collection of design books that have shaped my professional practice 
 - 📗 [**Laws of UX**](https://www.amazon.com/Laws-UX-Jon-Yablonski/dp/173209897X) _by Jon Yablonski_
 - 📗 [**Observing the User Experience, Second Edition: A Practitioner's Guide to User Research**](https://www.amazon.com/Observing-User-Experience-Second-Practitioners/dp/0123848681) _by Mike Kuniavsky_
 - 📗 [**Understanding Users: A Practical Guide to User Research Methods**](https://www.amazon.com/Understanding-Users-Practical-Research-Methods/dp/0123848690) _by Kathy Baxter and Catherine Courage_
-- 📗 [**The User is Always Right**](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) _by Steve Mulder_r
+- 📗 [**The User is Always Right**](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) _by Steve Mulder_
 
 .
 
@@ -105,7 +105,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-04-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/5c652a68-b153-46ea-b5e0-e1c845f1270d/header-04-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160342Z&X-Amz-Expires=3600&X-Amz-Signature=147271c97fcb3fdab534367909b640561360a48cd101a2ed208e1f3e90fd170b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-04-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/5c652a68-b153-46ea-b5e0-e1c845f1270d/header-04-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170325Z&X-Amz-Expires=3600&X-Amz-Signature=b462e0e11b379d543b37f416babcf4433f95ae5a7aa2479286aa616f8f9b8c24&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 04. **Interaction Design**
@@ -123,7 +123,7 @@ _A curated collection of design books that have shaped my professional practice 
 - 📘 [**Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences**](https://www.amazon.com/Seductive-Interaction-Design-Playful-Experiences/dp/0321725568) _by Stephen Anderson_
 - 📘 [**The Art of Interaction Design**](https://www.amazon.com/Art-Interaction-Design-John-Zimmerman/dp/0131428479) _by John Zimmerman_
 - 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
-- 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_a
+- 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
 
 .
 
@@ -131,7 +131,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-05-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/e7b0c627-362e-4d02-97e0-c1f3afe7bda6/header-05-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160342Z&X-Amz-Expires=3600&X-Amz-Signature=02546dbcd3e8e21739224aea853eb0042054380e1a486b60f15122ac5b5b0ca9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-05-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/e7b0c627-362e-4d02-97e0-c1f3afe7bda6/header-05-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170325Z&X-Amz-Expires=3600&X-Amz-Signature=5f105101ac132398e87faee882f32d8f9b20e60419f1660a702b52fb47863c48&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 05. **User Interface Designer**
@@ -148,7 +148,7 @@ _A curated collection of design books that have shaped my professional practice 
 - 📙 [**The Inmates Are Running the Asylum**](https://www.amazon.com/Inmates-Running-Asylum-Industrys-Crazy/dp/0672326140) _by Alan Cooper_
 - 📙 [**Rocket Surgery Made Easy**](https://www.amazon.com/Rocket-Surgery-Made-Easy-Usability/dp/0321657292) _by Steve Krug_
 - 📙 [**Sketching User Experiences**](https://www.amazon.com/Sketching-User-Experiences-Interactive-Techniques/dp/0123814642) _by Bill Buxton_
-- 📙 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) _by William Lidwell, Kritina Holden, and Jill Butler_r
+- 📙 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) _by William Lidwell, Kritina Holden, and Jill Butler_
 
 .
 
@@ -156,7 +156,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-06-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/4b6085b8-e2c7-4d7a-a498-6ecdba0dc614/header-06-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160342Z&X-Amz-Expires=3600&X-Amz-Signature=96ca937de2275d8cdf1c109ef05552d693c00f0f6553eb3f0dc1ea02444beed0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-06-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/4b6085b8-e2c7-4d7a-a498-6ecdba0dc614/header-06-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170326Z&X-Amz-Expires=3600&X-Amz-Signature=e71da242bb24b83acca6a833f64e76d0aba3fc6d9b0061d567698a600e4ab244&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 06. **Beginner Design 101**
@@ -181,7 +181,7 @@ _A curated collection of design books that have shaped my professional practice 
 - 📓 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
 - 📓 [**UX Design for Beginners: A Crash Course in 100 Short Lessons**](https://www.amazon.com/UX-Design-Beginners-Crash-Course/dp/1119538050) _by James Royal-Lawson, Per Axbom_
 - 📓 [**The UX Design Process: A Beginner's Guide**](https://www.amazon.com/UX-Design-Process-Beginners-Guide/dp/0789751514) _by Nick Babich_
-- 📓 [**The Vignelli canon**](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) _by Massimo Vignelli_i
+- 📓 [**The Vignelli canon**](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) _by Massimo Vignelli_
 
 .
 
@@ -189,7 +189,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-07-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/9a007c2b-c847-4728-baf4-5b79ccba5d77/header-07-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T160342Z&X-Amz-Expires=3600&X-Amz-Signature=c742bfc785f581dc56dedf013b488542c30deed9bccdea9a1db2f804800aa237&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-07-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/9a007c2b-c847-4728-baf4-5b79ccba5d77/header-07-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20241210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20241210T170326Z&X-Amz-Expires=3600&X-Amz-Signature=5e220740c2a12096318b668bb15b0f8da2e02759383ce72fe51804b1a4bb7e02&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## **07.  Design Management**
