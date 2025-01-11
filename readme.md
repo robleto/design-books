@@ -1,5 +1,5 @@
 
-![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030719Z&X-Amz-Expires=3600&X-Amz-Signature=e2edafa75883b090cdedd1279e8b3a1a8e9f75683be03ea99ac48d475bed3816&X-Amz-SignedHeaders=host&x-id=GetObject)
+![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040326Z&X-Amz-Expires=3600&X-Amz-Signature=99c3c3897900b05de9922544b2594a4644d0e4c886e309bff15dd0fc1299225d&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Design Books
@@ -25,7 +25,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-01-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/510170de-ce52-4cd7-b737-d1cb60b6ee64/header-01-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030719Z&X-Amz-Expires=3600&X-Amz-Signature=dee4f54f492a03b83d9343a59e639d80740193836c254d3699438534fc275156&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-01-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/510170de-ce52-4cd7-b737-d1cb60b6ee64/header-01-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040326Z&X-Amz-Expires=3600&X-Amz-Signature=f171f2a7d1b2e2e47370f82defb3c07f1b28eaa866effb3460b641c126d63899&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 01. Business
@@ -48,7 +48,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-02-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/b462d603-aa49-4b85-a3c7-105c685cd471/header-02-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030719Z&X-Amz-Expires=3600&X-Amz-Signature=0d7fb86640f6ed5443a57a36ab187e05584b233823c333c22876aeefb9a676a1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-02-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/b462d603-aa49-4b85-a3c7-105c685cd471/header-02-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040326Z&X-Amz-Expires=3600&X-Amz-Signature=3dcc2960f4ba7db8d31150181b2d4fc4aaccc6ee5d9031a5811be9f844f520f4&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 02. **Product Design**
@@ -78,7 +78,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-03-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/a86ab25e-c593-4759-9fdd-e4d5a95ec4f9/header-03-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030719Z&X-Amz-Expires=3600&X-Amz-Signature=a1b01614e0827ad8433d7b8770d732751963def87b6e6d352a9d3391f1c9f780&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-03-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/a86ab25e-c593-4759-9fdd-e4d5a95ec4f9/header-03-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040326Z&X-Amz-Expires=3600&X-Amz-Signature=c1c6a01cc31b21983f01a3f7aa34e72c908badc8136686ecf2c09d7cff58b3a1&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 03. **UX Research**
@@ -105,7 +105,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-04-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/5c652a68-b153-46ea-b5e0-e1c845f1270d/header-04-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030719Z&X-Amz-Expires=3600&X-Amz-Signature=ec09ee2a8be42d0a3ffe7c1d0acadd0e68e4f0a37375ec2d41bae0095056657e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-04-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/5c652a68-b153-46ea-b5e0-e1c845f1270d/header-04-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040326Z&X-Amz-Expires=3600&X-Amz-Signature=cde49b7d61867ec8a8f2e2e5505dc1215bf9302229f3a1e1e76d35a4c4618231&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 04. **Interaction Design**
@@ -131,7 +131,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-05-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/e7b0c627-362e-4d02-97e0-c1f3afe7bda6/header-05-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030719Z&X-Amz-Expires=3600&X-Amz-Signature=cbcaeea86b0e8a72601b0555207a3c484bbcb27314819babeeab9fe6b45a1646&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-05-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/e7b0c627-362e-4d02-97e0-c1f3afe7bda6/header-05-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040326Z&X-Amz-Expires=3600&X-Amz-Signature=c6d0314d088defe4273195a97d3c9ecc8caf1c4f85968eaf17786b81d2a67a8d&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 05. **User Interface Designer**
@@ -156,7 +156,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-06-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/4b6085b8-e2c7-4d7a-a498-6ecdba0dc614/header-06-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030722Z&X-Amz-Expires=3600&X-Amz-Signature=991e48c465e1a476f5e355198579ba7a92cd3d811359add436a3a5881e19432b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-06-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/4b6085b8-e2c7-4d7a-a498-6ecdba0dc614/header-06-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040328Z&X-Amz-Expires=3600&X-Amz-Signature=a2abd6569518119e9b37b6f6dcd9a782b13bf7b2a2ecd63be7e62f703a38b960&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 06. **Beginner Design 101**
@@ -189,7 +189,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-07-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/9a007c2b-c847-4728-baf4-5b79ccba5d77/header-07-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T030722Z&X-Amz-Expires=3600&X-Amz-Signature=3b6b28ec052557dea11f333a1fe97f1e5288982295aa5b8eb7235c4ef1c23ba3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![header-07-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/9a007c2b-c847-4728-baf4-5b79ccba5d77/header-07-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250111T040328Z&X-Amz-Expires=3600&X-Amz-Signature=f4cfb74108a3ba135afcab4483232e416ae03ab4c922505fb490ce9a60e4a327&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## **07.  Design Management**
