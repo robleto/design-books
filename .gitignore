@@ -1,0 +1,67 @@
+# Node
+node_modules/
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+
+# macOS system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Local history and backup
+.history/
+*.bak
+*.backup*
+
+# Build output
+/dist/
+/build/
+
+# Public raw images
+public/raw/
+
+# Misc
+__pycache__/
+*.pyc
+
+# OS junk files
+Thumbs.db
+
+# dotenv environment files
+.env
+.env.*
+
+# Coverage reports
+coverage/
+*.cover
+*.coverage
+
+# npm debug log
+npm-debug.log*
+
+# Yarn
+.yarn/
+.pnp.*
+
+# Parcel-bundler cache
+.cache/
+
+# SASS cache
+.sass-cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

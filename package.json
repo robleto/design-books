@@ -1,0 +1,21 @@
+{
+  "name": "design-books-image-migration",
+  "version": "1.0.0",
+  "description": "Script to download external images and update README references",
+  "main": "migrate-images.js",
+  "scripts": {
+    "migrate": "node migrate-images.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "https": "^1.0.0"
+  },
+  "keywords": [
+    "image",
+    "migration",
+    "download"
+  ],
+  "author": "Greg Robleto",
+  "license": "MIT"
+}
