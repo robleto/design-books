@@ -1,5 +1,5 @@
 
-![image](public/images/design-books-header.png)
+![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TTCYG6YL%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123758Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGjkU5sspdYEwiVPsfR4U8sD9EDC2zmGp7bZGQVPwoh6AiAj4fPTr5zZPifsm2SPqzO3FW4Og94FDxDNRQyOUOot%2FSqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMO0axtT9uwCcpMzrhKtwDnDvnFR5DzAPVEZK6AjdLMd6ZNSAvYvj6%2FPpouBu%2FhXiZt0AZDNOfIGlKdozftmjIHS1CSSPDxzZhA0cW%2BxVEtqOaJ3owBQ%2BZgMNX02oyGbFVFMUk120YyppueqnlDfdNlGmI64Y1n5b0k0Ckdp2J4kftZceo02U8qRGUx30PKWAqaRZ0NHfuU0f4EUIumMH6SQLez%2FlfQ5zE1iR9TqXFIJVWfhT6TASwOPIDuZwXrtYrDRWCHSViGgYDhdgkW3i32YPj424F0Rl4yzslByDNJsSox8OdgCgkR%2BUXFdhwtt5eBmoSmxNZHCRG8Y2cgyNDgOKeZ41QJdkUDCTLYIVDEmAvfT5AEwJ6rs1krszbfuYLYr6rzEsyyDUYF7keYdpRYsAARSWjgq%2FytnR9AKhdF7NCSIOirPdnzCObqf%2FB0kVpLaW%2F34%2BM%2F2zsDRxEcEVEt3xU%2FTHjdUTiD0e9IYS7FywRcfpQIdCd%2F1MxNahLnjqVz1yd2ifZeRgJmMxtAn4xIxm8%2BlysfcRvXFthDu5jtJDJkl5cpjJA3Q8b5uqCvcWE2vo2hsXFhGf43d7ft%2BeADw78fRrQNh4KkFxtN7e%2F9ruEFf61Ggn7hU0Bex5Ne9DgM0mX2Ab073Owf2swusrQxQY6pgFg%2FPX0HGpF9Q5jloQyunHREOYM14YTWRP%2FYKoRKdpSyDR0cTPYdnIg1AteXpmg2PEVoT6cChPsCX0O3EmjRcAp02GEEH5FBg9on8xg4I9bvc0TG4pxybiAoGcYF9kHrUUzU1KxDLmBEAReFESOKgZP0q9bQAV1gyeWkRVrsr7TSiCrBFYTGkaYHCTJQBJATt2M6%2BkT6NsjMq7D51Ci%2Bf6ubnVH2Hzi&X-Amz-Signature=2b68c8b48b52e7e6148c6561f98a9d2170adf244fa8f4ae363291154937af533&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
 # Design Books
@@ -10,18 +10,22 @@ _A curated collection of design books that have shaped my professional practice 
 
 ## Table of Contents
 
-1. [Business ](/157a0765760b80d4919dc45f2958d729#157a0765760b8046a48ff0e31e2f2712)
-2. [Product Design](/157a0765760b80d4919dc45f2958d729#157a0765760b8046bc5bf691938d6a6f)
-3. [UX Research](/157a0765760b80d4919dc45f2958d729#157a0765760b8065925fdb4f5c12ce6a)
-4. [Interaction Design](/157a0765760b80d4919dc45f2958d729#157a0765760b80838a8bd5732fb78999)
-5. [User Interface Design](/157a0765760b80d4919dc45f2958d729#157a0765760b80acbde2c37ca5ce80ef)
-6. [Beginner Design 101](/157a0765760b80d4919dc45f2958d729#157a0765760b80779fa7ff78b9967034)
-7. [Design Management](/157a0765760b80d4919dc45f2958d729#157a0765760b802cbaa9cb40b8721887)
+1. **📚**[ **Business** ](https://github.com/robleto/design-books?tab=readme-ov-file#01-business)
+2. **📚** [**Product Design**](https://github.com/robleto/design-books?tab=readme-ov-file#02-product-design)
+3. **📚** [**UX Research**](https://github.com/robleto/design-books?tab=readme-ov-file#03-ux-research)
+4. **📚** [**Interaction Design**](https://github.com/robleto/design-books?tab=readme-ov-file#04-interaction-design)
+5. **📚** [**User Interface Design**](https://github.com/robleto/design-books?tab=readme-ov-file#05-user-interface-designer)
+6. **📚** [**Beginner Design 101**](https://github.com/robleto/design-books?tab=readme-ov-file#06-beginner-design-101)
+7. **📚** [**Design Management**](https://github.com/robleto/design-books?tab=readme-ov-file#07--design-management)
+
+.
+
+
 
 ---
 
 
-![image](public/images/design-books-business.png)
+![header-01-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/510170de-ce52-4cd7-b737-d1cb60b6ee64/header-01-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TTCYG6YL%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123758Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGjkU5sspdYEwiVPsfR4U8sD9EDC2zmGp7bZGQVPwoh6AiAj4fPTr5zZPifsm2SPqzO3FW4Og94FDxDNRQyOUOot%2FSqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMO0axtT9uwCcpMzrhKtwDnDvnFR5DzAPVEZK6AjdLMd6ZNSAvYvj6%2FPpouBu%2FhXiZt0AZDNOfIGlKdozftmjIHS1CSSPDxzZhA0cW%2BxVEtqOaJ3owBQ%2BZgMNX02oyGbFVFMUk120YyppueqnlDfdNlGmI64Y1n5b0k0Ckdp2J4kftZceo02U8qRGUx30PKWAqaRZ0NHfuU0f4EUIumMH6SQLez%2FlfQ5zE1iR9TqXFIJVWfhT6TASwOPIDuZwXrtYrDRWCHSViGgYDhdgkW3i32YPj424F0Rl4yzslByDNJsSox8OdgCgkR%2BUXFdhwtt5eBmoSmxNZHCRG8Y2cgyNDgOKeZ41QJdkUDCTLYIVDEmAvfT5AEwJ6rs1krszbfuYLYr6rzEsyyDUYF7keYdpRYsAARSWjgq%2FytnR9AKhdF7NCSIOirPdnzCObqf%2FB0kVpLaW%2F34%2BM%2F2zsDRxEcEVEt3xU%2FTHjdUTiD0e9IYS7FywRcfpQIdCd%2F1MxNahLnjqVz1yd2ifZeRgJmMxtAn4xIxm8%2BlysfcRvXFthDu5jtJDJkl5cpjJA3Q8b5uqCvcWE2vo2hsXFhGf43d7ft%2BeADw78fRrQNh4KkFxtN7e%2F9ruEFf61Ggn7hU0Bex5Ne9DgM0mX2Ab073Owf2swusrQxQY6pgFg%2FPX0HGpF9Q5jloQyunHREOYM14YTWRP%2FYKoRKdpSyDR0cTPYdnIg1AteXpmg2PEVoT6cChPsCX0O3EmjRcAp02GEEH5FBg9on8xg4I9bvc0TG4pxybiAoGcYF9kHrUUzU1KxDLmBEAReFESOKgZP0q9bQAV1gyeWkRVrsr7TSiCrBFYTGkaYHCTJQBJATt2M6%2BkT6NsjMq7D51Ci%2Bf6ubnVH2Hzi&X-Amz-Signature=14d639c62969f5aa9889dfb8687b736933f6a5b9a59e8f1a6eea05a077250622&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
 ## 01. Business
@@ -29,97 +33,105 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A curated selection of business books focusing on innovation, product development, and organizational growth. Includes foundational works on startup methodology, design thinking, and business transformation strategies._
 
-1. [Sprint](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) by Jake Knapp
-2. [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) by William Lidwell, Kritina Holden, and Jill Butler
-3. [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by Geoffrey Moore
-4. [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244) by Clayton Christensen
-5. [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
-6. [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) by Jim Collins
-7. [Creativity](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58) by Ed Catmull
-8. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) by Marty Cagan
+- 📔 [**Creativity**](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58) _by Ed Catmull_
+- 📔 [**Crossing the Chasm**](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) _by Geoffrey Moore_
+- 📔 [**Good to Great**](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) _by Jim Collins_
+- 📔 [**Inspired: How to Create Tech Products Customers Love**](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) _by Marty Cagann_
+- 📔 [**The Innovator's Dilemma**](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244) _by Clayton Christensen_
+- 📔 [**The Lean Startup**](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) _by Eric Ries_
+- 📔 [**Sprint**](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) _by Jake Knapp_
+- 📔 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) _by William Lidwell, Kritina Holden, and Jill Butler_
+
+.
+
 
 ---
 
 
-![image](public/images/design-books-product-design.png)
+![header-02-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/b462d603-aa49-4b85-a3c7-105c685cd471/header-02-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TTCYG6YL%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123758Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGjkU5sspdYEwiVPsfR4U8sD9EDC2zmGp7bZGQVPwoh6AiAj4fPTr5zZPifsm2SPqzO3FW4Og94FDxDNRQyOUOot%2FSqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMO0axtT9uwCcpMzrhKtwDnDvnFR5DzAPVEZK6AjdLMd6ZNSAvYvj6%2FPpouBu%2FhXiZt0AZDNOfIGlKdozftmjIHS1CSSPDxzZhA0cW%2BxVEtqOaJ3owBQ%2BZgMNX02oyGbFVFMUk120YyppueqnlDfdNlGmI64Y1n5b0k0Ckdp2J4kftZceo02U8qRGUx30PKWAqaRZ0NHfuU0f4EUIumMH6SQLez%2FlfQ5zE1iR9TqXFIJVWfhT6TASwOPIDuZwXrtYrDRWCHSViGgYDhdgkW3i32YPj424F0Rl4yzslByDNJsSox8OdgCgkR%2BUXFdhwtt5eBmoSmxNZHCRG8Y2cgyNDgOKeZ41QJdkUDCTLYIVDEmAvfT5AEwJ6rs1krszbfuYLYr6rzEsyyDUYF7keYdpRYsAARSWjgq%2FytnR9AKhdF7NCSIOirPdnzCObqf%2FB0kVpLaW%2F34%2BM%2F2zsDRxEcEVEt3xU%2FTHjdUTiD0e9IYS7FywRcfpQIdCd%2F1MxNahLnjqVz1yd2ifZeRgJmMxtAn4xIxm8%2BlysfcRvXFthDu5jtJDJkl5cpjJA3Q8b5uqCvcWE2vo2hsXFhGf43d7ft%2BeADw78fRrQNh4KkFxtN7e%2F9ruEFf61Ggn7hU0Bex5Ne9DgM0mX2Ab073Owf2swusrQxQY6pgFg%2FPX0HGpF9Q5jloQyunHREOYM14YTWRP%2FYKoRKdpSyDR0cTPYdnIg1AteXpmg2PEVoT6cChPsCX0O3EmjRcAp02GEEH5FBg9on8xg4I9bvc0TG4pxybiAoGcYF9kHrUUzU1KxDLmBEAReFESOKgZP0q9bQAV1gyeWkRVrsr7TSiCrBFYTGkaYHCTJQBJATt2M6%2BkT6NsjMq7D51Ci%2Bf6ubnVH2Hzi&X-Amz-Signature=5f286151d928cd3122c304266938587584111833ad4333a1e596c30308cc228e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
-## 
-02. **Product Design**
+## 02. **Product Design**
 
 
 > _A curated list of essential product design books covering user experience fundamentals, behavioral psychology, product strategy, and design thinking methodologies. These resources help designers create engaging digital products through proven frameworks and research-backed principles._
 
-1. [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
-2. [Ux Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) by Jaime Levy
-3. [Don’t Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) - Steve Krug
-4. [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0738999320) by Bill Moggridge
-5. [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Donald A. Norman
-6. [The Shape of Design](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1940282050) by Frank Chimero
-7. [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Fried and David Heinemeier Hansson
-8. [Sprint](https://www.amazon.com/Sprint-Solve-Big-Problems-Little-Time/dp/150112174X) by Jake Knapp, John Zeratsky, and Braden Kowitz
-9. [The Inmates are Running the Asylum](https://www.amazon.com/Inmates-Running-Asylum-Insane-Situations/dp/0133173586) by Alan Cooper
-10. [Lean UX](https://www.amazon.com/Lean-UX-Designers-Developers-Collaboration/dp/1491953608) by Jeff Gothelf and Josh Seiden
-11. [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Launch-Brilliant/dp/1491974514) by Dan Olsen
-12. [The Design Thinking Playbook](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovators/dp/1119431052) by Michael Lewrick, Patrick Link, and Larry Leifer
-13. [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253008X) by William Lidwell, Kritina Holden, and Jill Butler
-14. [Scaling Up Excellence](https://www.amazon.com/Scaling-Up-Excellence-Settling-Less/dp/0804141213) by Robert Sutton and Huggy Rao
-15. [Build Better Products](https://www.amazon.com/Build-Better-Products-Centered-Development/dp/1491971444) by Laura Klein
+- 📕 [**Build Better Products**](https://www.amazon.com/Build-Better-Products-Centered-Development/dp/1491971444) _by Laura Klein_
+- 📕 [**The Shape of Design**](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1940282050) _by Frank Chimero_
+- 📕 [**The Design Thinking Playbook**](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovators/dp/1119431052) _by Michael Lewrick, Patrick Link, and Larry Leifer_
+- 📕 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0738999320) _by Bill Moggridge_
+- 📕 [**Don't Make Me Think**](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) _by Steve Krug_
+- 📕 [**Hooked**](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) _by Nir Eyal_
+- 📕 [**The Inmates are Running the Asylum**](https://www.amazon.com/Inmates-Running-Asylum-Insane-Situations/dp/0133173586) _by Alan Cooper_
+- 📕 [**Lean UX**](https://www.amazon.com/Lean-UX-Designers-Developers-Collaboration/dp/1491953608) _by Jeff Gothelf and Josh Seiden_
+- 📕 [**The Lean Product Playbook**](https://www.amazon.com/Lean-Product-Playbook-Launch-Brilliant/dp/1491974514) _by Dan Olsen_
+- 📕 [**Rework**](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) _by Jason Fried and David Heinemeier Hansson_
+- 📕 [**Scaling Up Excellence**](https://www.amazon.com/Scaling-Up-Excellence-Settling-Less/dp/0804141213) _by Robert Sutton and Huggy Rao_
+- 📕 [**Sprint**](https://www.amazon.com/Sprint-Solve-Big-Problems-Little-Time/dp/150112174X) _by Jake Knapp, John Zeratsky, and Braden Kowitz_
+- 📕 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) _by Donald A. Norman_
+- 📕 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253008X) _by William Lidwell, Kritina Holden, and Jill Butler_
+- 📕 [**UX Strategy: How to Devise Innovative Digital Products that People Want**](https://www.amazon.com/Ux-Strategy-Innovative-Digital-Products/dp/0134056445) _by Jaime Levy_
+
+.
+
 
 ---
 
 
-![image](public/images/design-books-ux-research.png)
+![header-03-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/a86ab25e-c593-4759-9fdd-e4d5a95ec4f9/header-03-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TTCYG6YL%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123758Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGjkU5sspdYEwiVPsfR4U8sD9EDC2zmGp7bZGQVPwoh6AiAj4fPTr5zZPifsm2SPqzO3FW4Og94FDxDNRQyOUOot%2FSqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMO0axtT9uwCcpMzrhKtwDnDvnFR5DzAPVEZK6AjdLMd6ZNSAvYvj6%2FPpouBu%2FhXiZt0AZDNOfIGlKdozftmjIHS1CSSPDxzZhA0cW%2BxVEtqOaJ3owBQ%2BZgMNX02oyGbFVFMUk120YyppueqnlDfdNlGmI64Y1n5b0k0Ckdp2J4kftZceo02U8qRGUx30PKWAqaRZ0NHfuU0f4EUIumMH6SQLez%2FlfQ5zE1iR9TqXFIJVWfhT6TASwOPIDuZwXrtYrDRWCHSViGgYDhdgkW3i32YPj424F0Rl4yzslByDNJsSox8OdgCgkR%2BUXFdhwtt5eBmoSmxNZHCRG8Y2cgyNDgOKeZ41QJdkUDCTLYIVDEmAvfT5AEwJ6rs1krszbfuYLYr6rzEsyyDUYF7keYdpRYsAARSWjgq%2FytnR9AKhdF7NCSIOirPdnzCObqf%2FB0kVpLaW%2F34%2BM%2F2zsDRxEcEVEt3xU%2FTHjdUTiD0e9IYS7FywRcfpQIdCd%2F1MxNahLnjqVz1yd2ifZeRgJmMxtAn4xIxm8%2BlysfcRvXFthDu5jtJDJkl5cpjJA3Q8b5uqCvcWE2vo2hsXFhGf43d7ft%2BeADw78fRrQNh4KkFxtN7e%2F9ruEFf61Ggn7hU0Bex5Ne9DgM0mX2Ab073Owf2swusrQxQY6pgFg%2FPX0HGpF9Q5jloQyunHREOYM14YTWRP%2FYKoRKdpSyDR0cTPYdnIg1AteXpmg2PEVoT6cChPsCX0O3EmjRcAp02GEEH5FBg9on8xg4I9bvc0TG4pxybiAoGcYF9kHrUUzU1KxDLmBEAReFESOKgZP0q9bQAV1gyeWkRVrsr7TSiCrBFYTGkaYHCTJQBJATt2M6%2BkT6NsjMq7D51Ci%2Bf6ubnVH2Hzi&X-Amz-Signature=e18ada3763497b9a3a077010a53be6294034fd847ee4e6c616562af058b66817&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
-## 
-03. **UX Research**
+## 03. **UX Research**
 
 
 > _A curated selection of UX research books focused on user research methodologies, interview techniques, usability testing approaches, and data analysis frameworks to help researchers conduct effective studies and deliver actionable insights._
 
-1. [Don’t Make Me Think: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Common-Usability/dp/0321965515) by Steve Krug
-2. [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) by Don Norman
-3. [Understanding Users: A Practical Guide to User Research Methods](https://www.amazon.com/Understanding-Users-Practical-Research-Methods/dp/0123848690) by Kathy Baxter and Catherine Courage
-4. [Observing the User Experience, Second Edition: A Practitioner's Guide to User Research](https://www.amazon.com/Observing-User-Experience-Second-Practitioners/dp/0123848681) by Mike Kuniavsky
-5. [The Elements of User Experience: User-Centered Design for the Web](https://www.amazon.com/Elements-User-Experience-Centered-Design/dp/1933820249) by Jesse James Garrett
-6. [A Project Guide to UX Design: For User Experience Designers in the Field or in the Making](https://www.amazon.com/Project-Guide-UX-Design-Experience/dp/0321815386) by Russ Unger and Carolyn Chandler
-7. [Designing for Emotion](https://www.amazon.com/Designing-Emotion-Aarron-Walter/dp/0321725544) by Aarron Walter
-8. [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Every-Designer-Needs-Know/dp/0321767535) by Susan M. Weinschenk
-9. [The User is Always Right](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) by Steve Mulder
-10. [Laws of UX](https://www.amazon.com/Laws-UX-Jon-Yablonski/dp/173209897X) by Jon Yablonski
-11. [Bottlenecks: Aligning UX Design with User Psychology](https://www.amazon.com/Bottlenecks-Aligning-Design-Psychology-User/dp/0128171896) by David Evans
-12. [Designing for Behavior Change](https://www.amazon.com/Designing-Behavior-Change-Applied-Psychology/dp/1449307728) by Stephen Wendel
+- 📗 [**100 Things Every Designer Needs to Know About People**](https://www.amazon.com/Things-Every-Designer-Needs-Know/dp/0321767535) _by Susan M. Weinschenk_
+- 📗 [**A Project Guide to UX Design: For User Experience Designers in the Field or in the Making**](https://www.amazon.com/Project-Guide-UX-Design-Experience/dp/0321815386) _by Russ Unger and Carolyn Chandler_
+- 📗 [**Bottlenecks: Aligning UX Design with User Psychology**](https://www.amazon.com/Bottlenecks-Aligning-Design-Psychology-User/dp/0128171896) _by David Evans_
+- 📗 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) _by Don Norman_
+- 📗 [**Designing for Behavior Change**](https://www.amazon.com/Designing-Behavior-Change-Applied-Psychology/dp/1449307728) _by Stephen Wendel_
+- 📗 [**Designing for Emotion**](https://www.amazon.com/Designing-Emotion-Aarron-Walter/dp/0321725544) _by Aarron Walter_
+- 📗 [**Don't Make Me Think: A Common Sense Approach to Web Usability**](https://www.amazon.com/Dont-Make-Think-Common-Usability/dp/0321965515) _by Steve Krug_
+- 📗 [**The Elements of User Experience: User-Centered Design for the Web**](https://www.amazon.com/Elements-User-Experience-Centered-Design/dp/1933820249) _by Jesse James Garrett_
+- 📗 [**Laws of UX**](https://www.amazon.com/Laws-UX-Jon-Yablonski/dp/173209897X) _by Jon Yablonski_
+- 📗 [**Observing the User Experience, Second Edition: A Practitioner's Guide to User Research**](https://www.amazon.com/Observing-User-Experience-Second-Practitioners/dp/0123848681) _by Mike Kuniavsky_
+- 📗 [**Understanding Users: A Practical Guide to User Research Methods**](https://www.amazon.com/Understanding-Users-Practical-Research-Methods/dp/0123848690) _by Kathy Baxter and Catherine Courage_
+- 📗 [**The User is Always Right**](https://www.amazon.com/User-Always-Right-Experience-Centered/dp/0321658701) _by Steve Mulder_
+
+.
+
 
 ---
 
 
-![image](public/images/design-books-interaction-design.png)
+![header-04-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/5c652a68-b153-46ea-b5e0-e1c845f1270d/header-04-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TTCYG6YL%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123758Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGjkU5sspdYEwiVPsfR4U8sD9EDC2zmGp7bZGQVPwoh6AiAj4fPTr5zZPifsm2SPqzO3FW4Og94FDxDNRQyOUOot%2FSqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMO0axtT9uwCcpMzrhKtwDnDvnFR5DzAPVEZK6AjdLMd6ZNSAvYvj6%2FPpouBu%2FhXiZt0AZDNOfIGlKdozftmjIHS1CSSPDxzZhA0cW%2BxVEtqOaJ3owBQ%2BZgMNX02oyGbFVFMUk120YyppueqnlDfdNlGmI64Y1n5b0k0Ckdp2J4kftZceo02U8qRGUx30PKWAqaRZ0NHfuU0f4EUIumMH6SQLez%2FlfQ5zE1iR9TqXFIJVWfhT6TASwOPIDuZwXrtYrDRWCHSViGgYDhdgkW3i32YPj424F0Rl4yzslByDNJsSox8OdgCgkR%2BUXFdhwtt5eBmoSmxNZHCRG8Y2cgyNDgOKeZ41QJdkUDCTLYIVDEmAvfT5AEwJ6rs1krszbfuYLYr6rzEsyyDUYF7keYdpRYsAARSWjgq%2FytnR9AKhdF7NCSIOirPdnzCObqf%2FB0kVpLaW%2F34%2BM%2F2zsDRxEcEVEt3xU%2FTHjdUTiD0e9IYS7FywRcfpQIdCd%2F1MxNahLnjqVz1yd2ifZeRgJmMxtAn4xIxm8%2BlysfcRvXFthDu5jtJDJkl5cpjJA3Q8b5uqCvcWE2vo2hsXFhGf43d7ft%2BeADw78fRrQNh4KkFxtN7e%2F9ruEFf61Ggn7hU0Bex5Ne9DgM0mX2Ab073Owf2swusrQxQY6pgFg%2FPX0HGpF9Q5jloQyunHREOYM14YTWRP%2FYKoRKdpSyDR0cTPYdnIg1AteXpmg2PEVoT6cChPsCX0O3EmjRcAp02GEEH5FBg9on8xg4I9bvc0TG4pxybiAoGcYF9kHrUUzU1KxDLmBEAReFESOKgZP0q9bQAV1gyeWkRVrsr7TSiCrBFYTGkaYHCTJQBJATt2M6%2BkT6NsjMq7D51Ci%2Bf6ubnVH2Hzi&X-Amz-Signature=943b9eb6f4f4ce8f22b383018931275f5450e0aaf59e044b8707884f81184ceb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
-## 
-04. **Interaction Design**
+## 04. **Interaction Design**
 
 
 > _A comprehensive collection of books focused on interaction design principles, patterns, and best practices. These resources help designers create intuitive and engaging digital experiences through effective interface design, user flows, and interactive elements._
 
-1. [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465067107) by Don Norman
-2. [Interaction Design: Beyond Human-Computer Interaction](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer-Interaction-ebook/dp/B00KPYG3VY) by Jenny Preece, Helen Sharp, Yvonne Rogers
-3. [About Face 3: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) by Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel
-4. [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702) by Jenifer Tidwell
-5. [The Art of Interaction Design](https://www.amazon.com/Art-Interaction-Design-John-Zimmerman/dp/0131428479) by John Zimmerman
-6. [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0262134748) by Bill Moggridge
-7. [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.amazon.com/Emotional-Design-Why-Everyday-Things/dp/0465051343) by Don Norman
-8. [Interaction Design: Creating Innovative Applications and Devices](https://www.amazon.com/Interaction-Design-Creating-Innovative-Applications/dp/0123736023) by Dan Saffer
-9. [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) by Rex Hartson and Pardha Pyla
-10. [Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences](https://www.amazon.com/Seductive-Interaction-Design-Playful-Experiences/dp/0321725568) by Stephen Anderson
-11. [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) by Rex Hartson and Pardha Pyla
+- 📘 [**About Face 3: The Essentials of Interaction Design**](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) _by Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel_
+- 📘 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465067107) _by Don Norman_
+- 📘 [**Designing Interfaces**](https://www.amazon.com/Designing-Interfaces-Patterns-Effective-Interaction/dp/1449379702) _by Jenifer Tidwell_
+- 📘 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0262134748) _by Bill Moggridge_
+- 📘 [**Emotional Design: Why We Love (or Hate) Everyday Things**](https://www.amazon.com/Emotional-Design-Why-Everyday-Things/dp/0465051343) _by Don Norman_
+- 📘 [**Interaction Design: Beyond Human-Computer Interaction**](https://www.amazon.com/Interaction-Design-Beyond-Human-Computer-Interaction-ebook/dp/B00KPYG3VY) _by Jenny Preece, Helen Sharp, Yvonne Rogers_
+- 📘 [**Interaction Design: Creating Innovative Applications and Devices**](https://www.amazon.com/Interaction-Design-Creating-Innovative-Applications/dp/0123736023) _by Dan Saffer_
+- 📘 [**Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences**](https://www.amazon.com/Seductive-Interaction-Design-Playful-Experiences/dp/0321725568) _by Stephen Anderson_
+- 📘 [**The Art of Interaction Design**](https://www.amazon.com/Art-Interaction-Design-John-Zimmerman/dp/0131428479) _by John Zimmerman_
+- 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
+- 📘 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
+
+.
+
 
 ---
 
 
-![image](public/images/design-books-user-interface-designer.png)
-
+![header-05-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/e7b0c627-362e-4d02-97e0-c1f3afe7bda6/header-05-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TTCYG6YL%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123759Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIGjkU5sspdYEwiVPsfR4U8sD9EDC2zmGp7bZGQVPwoh6AiAj4fPTr5zZPifsm2SPqzO3FW4Og94FDxDNRQyOUOot%2FSqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMO0axtT9uwCcpMzrhKtwDnDvnFR5DzAPVEZK6AjdLMd6ZNSAvYvj6%2FPpouBu%2FhXiZt0AZDNOfIGlKdozftmjIHS1CSSPDxzZhA0cW%2BxVEtqOaJ3owBQ%2BZgMNX02oyGbFVFMUk120YyppueqnlDfdNlGmI64Y1n5b0k0Ckdp2J4kftZceo02U8qRGUx30PKWAqaRZ0NHfuU0f4EUIumMH6SQLez%2FlfQ5zE1iR9TqXFIJVWfhT6TASwOPIDuZwXrtYrDRWCHSViGgYDhdgkW3i32YPj424F0Rl4yzslByDNJsSox8OdgCgkR%2BUXFdhwtt5eBmoSmxNZHCRG8Y2cgyNDgOKeZ41QJdkUDCTLYIVDEmAvfT5AEwJ6rs1krszbfuYLYr6rzEsyyDUYF7keYdpRYsAARSWjgq%2FytnR9AKhdF7NCSIOirPdnzCObqf%2FB0kVpLaW%2F34%2BM%2F2zsDRxEcEVEt3xU%2FTHjdUTiD0e9IYS7FywRcfpQIdCd%2F1MxNahLnjqVz1yd2ifZeRgJmMxtAn4xIxm8%2BlysfcRvXFthDu5jtJDJkl5cpjJA3Q8b5uqCvcWE2vo2hsXFhGf43d7ft%2BeADw78fRrQNh4KkFxtN7e%2F9ruEFf61Ggn7hU0Bex5Ne9DgM0mX2Ab073Owf2swusrQxQY6pgFg%2FPX0HGpF9Q5jloQyunHREOYM14YTWRP%2FYKoRKdpSyDR0cTPYdnIg1AteXpmg2PEVoT6cChPsCX0O3EmjRcAp02GEEH5FBg9on8xg4I9bvc0TG4pxybiAoGcYF9kHrUUzU1KxDLmBEAReFESOKgZP0q9bQAV1gyeWkRVrsr7TSiCrBFYTGkaYHCTJQBJATt2M6%2BkT6NsjMq7D51Ci%2Bf6ubnVH2Hzi&X-Amz-Signature=d51abf31770564c57ca51ec39bde50b75fe5b2e6d67ad76965c7e0d383c37817&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
 ## 05. **User Interface Designer**
@@ -127,21 +139,24 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A curated collection of essential UI design books focused on visual design principles, interface patterns, and layout fundamentals to help designers create intuitive and visually appealing user interfaces._
 
-1. [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) by Don Norman
-2. [The Inmates Are Running the Asylum](https://www.amazon.com/Inmates-Running-Asylum-Industrys-Crazy/dp/0672326140) by Alan Cooper
-3. [About Face](https://www.amazon.com/About-Face-Interaction-Design-Essentials/dp/1118766571) by Alan Cooper and Robert Reimann
-4. [Designing with Web Standards](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) by Jeffrey Zeldman
-5. [Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Usability/dp/0321657292) - Steve Krug
-6. [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) by William Lidwell, Kritina Holden, and Jill Butler
-7. [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0735619670) by Bill Moggridge
-8. [Designing Visual Interfaces](https://www.amazon.com/Designing-Visual-Interfaces-Techniques-User/dp/0134399318) by Kevin Mullet and Darrell Sano
-9. [Sketching User Experiences](https://www.amazon.com/Sketching-User-Experiences-Interactive-Techniques/dp/0123814642) by Bill Buxton
-10. [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jennifer-Tidwell/dp/1491927400) by Jenifer Tidwell
+- 📙[**About Face**](https://www.amazon.com/About-Face-Interaction-Design-Essentials/dp/1118766571)_by Alan Cooper and Robert Reimann_
+- 📙 [**The Design of Everyday Things**](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107) _by Don Norman_
+- 📙 [**Designing Interfaces**](https://www.amazon.com/Designing-Interfaces-Jennifer-Tidwell/dp/1491927400) _by Jenifer Tidwell_
+- 📙 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0735619670) _by Bill Moggridge_
+- 📙 [**Designing Visual Interfaces**](https://www.amazon.com/Designing-Visual-Interfaces-Techniques-User/dp/0134399318) _by Kevin Mullet and Darrell Sano_
+- 📙 [**Designing with Web Standards**](https://www.amazon.com/Designing-Web-Standards-Jeffrey-Zeldman/dp/0321616952) _by Jeffrey Zeldman_
+- 📙 [**The Inmates Are Running the Asylum**](https://www.amazon.com/Inmates-Running-Asylum-Industrys-Crazy/dp/0672326140) _by Alan Cooper_
+- 📙 [**Rocket Surgery Made Easy**](https://www.amazon.com/Rocket-Surgery-Made-Easy-Usability/dp/0321657292) _by Steve Krug_
+- 📙 [**Sketching User Experiences**](https://www.amazon.com/Sketching-User-Experiences-Interactive-Techniques/dp/0123814642) _by Bill Buxton_
+- 📙 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530084) _by William Lidwell, Kritina Holden, and Jill Butler_
+
+.
+
 
 ---
 
 
-![image](public/images/design-books-beginner-design.png)
+![header-06-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/4b6085b8-e2c7-4d7a-a498-6ecdba0dc614/header-06-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666KIBKZZV%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123800Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBttfDV1QstZ9LzZaB95FnpamcPrUfZ1ExmNIC381qg4AiBMi2T3J6z5mUojKiHvNi6gy2vJrOF5yLtfRn2fEbhZXyqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMh00w%2BQ6AmroFrRQ6KtwDXaEC%2FXthWM4wcUI23DyV1iNZcqJf9fZyCupqt4DWFUG9eTk6yebVlAvRyvq0NMOe5ei1qNgo6XIIa2fF%2BtuOWhpccLemWjNhUW6gbB3rbNKrHivxC%2FdCjkMcBLxdbr8QuZ4PVTKY317QOhSeBwdQQEE6%2FdCeJQ0MDVbw6V9ES5Xz%2BPGeQJGrBFsLVmUdB63DmPJbF1DHyS6WQfwo%2BAM171lLDX4S7yL6NCxge28fVeAAgh5KMRJ7VcUcj7KGp9Z5RFFcL%2FUQg9fi6aEyPs6q%2BlHQjmWQRO6NW8ysZdegGizfDbflaUL%2Bq6BYlnO2cAQg8K%2FvrGzPq0V5%2B%2F2Pgn75XU6MmQNavpYPn3F5LD1wm8ZObl92ZDF8uUUKdkfhwmbTqW10ofVQko9QVVy1ve4CStL56BQUy1APi795hmqNbpMBaOV%2F1o7Kiw5Re4KuqubeoQL3943SzjqbLyalpDv8coT%2BWsUqOBmNegL01apoQeQV8HvSajxmzkRm0kBn%2BeQ9evczeO%2FAH2u%2FNVsLJV6wMmW7TMt3Kmr8z1SulaQ%2BuJO5azjAujxiJGstWFHFZn0dex36Rw72oKOQWQ5drUqKSItsivA8mor7S3GyEa2MBY9cwk3TG9pUiox%2BA6Aw19DQxQY6pgHzOe4n3Ubu477JzWKU5Bus7lgb95AqoNl6x6nG4J7D3VoxuiF0J2bL8cvws0aKvZD2JZcKsGXxVkFPpWRcRmOOCbe%2BsH1nAeKNQx%2FhGrGwOR5kPOI4LO9lLAB7132jORcuQ7tFqoa%2Ff5U0MZdaIMleqLQ4YVF9MJz8UOGvdTEdQJ5xwTj%2F9pG25HeiqjrihC3Km8%2BwvWwJnt3%2BWSZ3WFp3tiOCr1Ui&X-Amz-Signature=79e681f282a8c54f8c2cd7a2dfcaa8280b3b1e8d6f6ebb3e15e82be4f8d7c749&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
 ## 06. **Beginner Design 101**
@@ -149,29 +164,32 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _An essential reading list for design beginners covering fundamental principles, user-centered design approaches, and core methodologies to build a solid foundation in design practice._
 
-1. [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530020) by William Lidwell
-2. [Designing Interactions](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0785342650) by Bill Moggridge
-3. [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-Needs-About-People/dp/0132790426) by Susan M. Weinschenk
-4. [Design Is a Job](https://www.amazon.com/Design-Job-Mike-Monteiro/dp/1937557131) by Mike Monteiro
-5. [The User Experience Team of One](https://www.amazon.com/User-Experience-Team-Leah-Buley/dp/1933820074) by Leah Buley
-6. [Designing with Type](https://www.amazon.com/Designing-Type-James-Craig/dp/0471445228) by James Craig
-7. [Graphic Design Thinking: Beyond Form and Function](https://www.amazon.com/Graphic-Design-Thinking-Beyond-Function/dp/1616890775) by Ellen Lupton
-8. [The Shape of Design](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1457188101) by Frank Chimero
-9. [Solving Product Design Exercises](https://www.amazon.com/Solving-Product-Design-Exercises-Dashinsky/dp/098678631X) by Artiom Dashinsky
-10. [Design for Real Life](https://www.amazon.com/Design-Real-Life-Empathy-Technology/dp/1933820617) by Eric Meyer and Sara Wachter-Boettcher
-11. [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) by Rex Hartson and Pardha Pyla
-12. [The Vignelli canon](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) by Massimo Vignelli
-13. [The UX Design Process: A Beginner's Guide](https://www.amazon.com/UX-Design-Process-Beginners-Guide/dp/0789751514) by Nick Babich
-14. [The Design Sprint](https://www.amazon.com/Design-Sprint-Solve-Problems-Validated/dp/0636920051305) by Jake Knapp, John Zeratsky, and Braden Kowitz
-15. [The Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests](https://www.amazon.com/Handbook-Usability-Testing-Effective-Techniques/dp/0470185477) by Jeffrey Rubin
-16. [The Power of Color in UI Design](https://www.amazon.com/Power-Color-Design-Nick-Babich/dp/0134670048) by Nick Babich
-17. [UX Design for Beginners: A Crash Course in 100 Short Lessons](https://www.amazon.com/UX-Design-Beginners-Crash-Course/dp/1119538050) by James Royal-Lawson, Per Axbom
-18. [How to be a Graphic Designer Without Losing Your Soul](https://www.amazon.com/How-Graphic-Designer-Without-Losing/dp/1786270875) by Adrian Shaughnessy
+- 📓 [**100 Things Every Designer Needs to Know About People**](https://www.amazon.com/Things-Designer-Needs-About-People/dp/0132790426) _by Susan M. Weinschenk_
+- 📓 [**Design Is a Job**](https://www.amazon.com/Design-Job-Mike-Monteiro/dp/1937557131) _by Mike Monteiro_
+- 📓 [**Design for Real Life**](https://www.amazon.com/Design-Real-Life-Empathy-Technology/dp/1933820617) _by Eric Meyer and Sara Wachter-Boettcher_
+- 📓 [**The Design Sprint**](https://www.amazon.com/Design-Sprint-Solve-Problems-Validated/dp/0636920051305) _by Jake Knapp, John Zeratsky, and Braden Kowitz_
+- 📓 [**Designing Interactions**](https://www.amazon.com/Designing-Interactions-Bill-Moggridge/dp/0785342650) _by Bill Moggridge_
+- 📓 [**Designing with Type**](https://www.amazon.com/Designing-Type-James-Craig/dp/0471445228) _by James Craig_
+- 📓 [**Graphic Design Thinking: Beyond Form and Function**](https://www.amazon.com/Graphic-Design-Thinking-Beyond-Function/dp/1616890775) _by Ellen Lupton_
+- 📓 [**The Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests**](https://www.amazon.com/Handbook-Usability-Testing-Effective-Techniques/dp/0470185477) _by Jeffrey Rubin_
+- 📓 [**How to be a Graphic Designer Without Losing Your Soul**](https://www.amazon.com/How-Graphic-Designer-Without-Losing/dp/1786270875) _by Adrian Shaughnessy_
+- 📓 [**The Power of Color in UI Design**](https://www.amazon.com/Power-Color-Design-Nick-Babich/dp/0134670048) _by Nick Babich_
+- 📓 [**The Shape of Design**](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/1457188101) _by Frank Chimero_
+- 📓 [**Solving Product Design Exercises**](https://www.amazon.com/Solving-Product-Design-Exercises-Dashinsky/dp/098678631X) _by Artiom Dashinsky_
+- 📓 [**Universal Principles of Design**](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530020) _by William Lidwell_
+- 📓 [**The User Experience Team of One**](https://www.amazon.com/User-Experience-Team-Leah-Buley/dp/1933820074) _by Leah Buley_
+- 📓 [**The UX Book: Process and Guidelines for Ensuring a Quality User Experience**](https://www.amazon.com/UX-Book-Process-Guidelines-Ensuring/dp/0123848695) _by Rex Hartson and Pardha Pyla_
+- 📓 [**UX Design for Beginners: A Crash Course in 100 Short Lessons**](https://www.amazon.com/UX-Design-Beginners-Crash-Course/dp/1119538050) _by James Royal-Lawson, Per Axbom_
+- 📓 [**The UX Design Process: A Beginner's Guide**](https://www.amazon.com/UX-Design-Process-Beginners-Guide/dp/0789751514) _by Nick Babich_
+- 📓 [**The Vignelli canon**](https://www.amazon.com/Vignelli-Canon-Massimo-Vignelli/dp/372120055X) _by Massimo Vignelli_
+
+.
+
 
 ---
 
 
-![image](public/images/design-books-design-management.png)
+![header-07-blank.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/9a007c2b-c847-4728-baf4-5b79ccba5d77/header-07-blank.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666KIBKZZV%2F20250831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250831T123801Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIBttfDV1QstZ9LzZaB95FnpamcPrUfZ1ExmNIC381qg4AiBMi2T3J6z5mUojKiHvNi6gy2vJrOF5yLtfRn2fEbhZXyqIBAjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMh00w%2BQ6AmroFrRQ6KtwDXaEC%2FXthWM4wcUI23DyV1iNZcqJf9fZyCupqt4DWFUG9eTk6yebVlAvRyvq0NMOe5ei1qNgo6XIIa2fF%2BtuOWhpccLemWjNhUW6gbB3rbNKrHivxC%2FdCjkMcBLxdbr8QuZ4PVTKY317QOhSeBwdQQEE6%2FdCeJQ0MDVbw6V9ES5Xz%2BPGeQJGrBFsLVmUdB63DmPJbF1DHyS6WQfwo%2BAM171lLDX4S7yL6NCxge28fVeAAgh5KMRJ7VcUcj7KGp9Z5RFFcL%2FUQg9fi6aEyPs6q%2BlHQjmWQRO6NW8ysZdegGizfDbflaUL%2Bq6BYlnO2cAQg8K%2FvrGzPq0V5%2B%2F2Pgn75XU6MmQNavpYPn3F5LD1wm8ZObl92ZDF8uUUKdkfhwmbTqW10ofVQko9QVVy1ve4CStL56BQUy1APi795hmqNbpMBaOV%2F1o7Kiw5Re4KuqubeoQL3943SzjqbLyalpDv8coT%2BWsUqOBmNegL01apoQeQV8HvSajxmzkRm0kBn%2BeQ9evczeO%2FAH2u%2FNVsLJV6wMmW7TMt3Kmr8z1SulaQ%2BuJO5azjAujxiJGstWFHFZn0dex36Rw72oKOQWQ5drUqKSItsivA8mor7S3GyEa2MBY9cwk3TG9pUiox%2BA6Aw19DQxQY6pgHzOe4n3Ubu477JzWKU5Bus7lgb95AqoNl6x6nG4J7D3VoxuiF0J2bL8cvws0aKvZD2JZcKsGXxVkFPpWRcRmOOCbe%2BsH1nAeKNQx%2FhGrGwOR5kPOI4LO9lLAB7132jORcuQ7tFqoa%2Ff5U0MZdaIMleqLQ4YVF9MJz8UOGvdTEdQJ5xwTj%2F9pG25HeiqjrihC3Km8%2BwvWwJnt3%2BWSZ3WFp3tiOCr1Ui&X-Amz-Signature=1123f8f658f4ffe21ee13cee7832b10cdd7698f758040aed5ce87ecb7a3580ec&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
 ## **07.  Design Management**
@@ -179,19 +197,18 @@ _A curated collection of design books that have shaped my professional practice 
 
 > _A collection of essential books for design managers and leaders covering team management, product strategy, organizational design, and leadership principles to effectively guide design teams and drive innovation._
 
-1. [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Development/dp/1484231147) by Michael Lopp
-2. [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Launch-Products/dp/1491973760) by Dan Olsen
-3. [Scaling Up Excellence](https://www.amazon.com/Scaling-Up-Excellence-Getting-More/dp/0804137382) by Robert Sutton and Huggy Rao
-4. [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) by Daniel H. Pink
-5. [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by Camille Fournier
-6. [Inspired: How To Create Tech Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) by Marty Cagan
-7. [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Talking-When-Stakes/dp/0071771328) by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
-8. [The Power of Intentional Leadership](https://www.amazon.com/Power-Intentional-Leadership-Create-Organization/dp/1633694418) by Joanne Miller
-9. [The Design Thinking Playbook](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovation/dp/1119555179) by Michael Lewrick, Patrick Link, and Larry Leifer
-10. [Org Design for Design Orgs](https://www.amazon.com/Org-Design-Design-Organizations-Experience/dp/1491953283) by Peter Merholz
-11. [Design Leadership](https://www.amazon.com/Design-Leadership-Creating-Organizations-Experience/dp/1491953286) by Richard Banfield
+- 📒 [**Crucial Conversations: Tools for Talking When Stakes are High**](https://www.amazon.com/Crucial-Conversations-Talking-When-Stakes/dp/0071771328) _by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler_
+- 📒 [**Design Leadership**](https://www.amazon.com/Design-Leadership-Creating-Organizations-Experience/dp/1491953286) _by Richard Banfield_
+- 📒 [**The Design Thinking Playbook**](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovation/dp/1119555179) _by Michael Lewrick, Patrick Link, and Larry Leifer_
+- 📒 [**Drive: The Surprising Truth About What Motivates Us**](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) _by Daniel H. Pink_
+- 📒 [**Inspired: How To Create Tech Products Customers Love**](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) _by Marty Cagan_
+- 📒 [**The Lean Product Playbook**](https://www.amazon.com/Lean-Product-Playbook-Launch-Products/dp/1491973760) _by Dan Olsen_
+- 📒 [**Managing Humans**](https://www.amazon.com/Managing-Humans-Humorous-Software-Development/dp/1484231147) _by Michael Lopp_
+- 📒 [**The Manager's Path**](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) _by Camille Fournier_
+- 📒 [**Org Design for Design Orgs**](https://www.amazon.com/Org-Design-Design-Organizations-Experience/dp/1491953283) _by Peter Merholz_
+- 📒 [**The Power of Intentional Leadership**](https://www.amazon.com/Power-Intentional-Leadership-Create-Organization/dp/1633694418) _by Joanne Miller_
+- 📒 [**Scaling Up Excellence**](https://www.amazon.com/Scaling-Up-Excellence-Getting-More/db/0804137382) _by Robert Sutton and Huggy Rao_
 
-
-
+.
 
 
