@@ -1,5 +1,5 @@
 
-![image](https://images.unsplash.com/photo-1618506429948-1746e6e8093f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-header.png)
 
 
 # Design Books
@@ -21,7 +21,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1431540015161-0bf868a2d407?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-business.png)
 
 
 ## 01. Business
@@ -41,7 +41,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-product-design.png)
 
 
 ## 
@@ -69,7 +69,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1501290741922-b56c0d0884af?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-ux-research.png)
 
 
 ## 
@@ -94,7 +94,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1576153192396-180ecef2a715?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-interaction-design.png)
 
 
 ## 
@@ -118,10 +118,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
-
-
-
+![image](public/images/design-books-user-interface-designer.png)
 
 
 
@@ -144,7 +141,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-beginner-design.png)
 
 
 ## 06. **Beginner Design 101**
@@ -174,7 +171,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![image](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![image](public/images/design-books-design-management.png)
 
 
 ## **07.  Design Management**
@@ -193,6 +190,7 @@ _A curated collection of design books that have shaped my professional practice 
 9. [The Design Thinking Playbook](https://www.amazon.com/Design-Thinking-Playbook-Practical-Innovation/dp/1119555179) by Michael Lewrick, Patrick Link, and Larry Leifer
 10. [Org Design for Design Orgs](https://www.amazon.com/Org-Design-Design-Organizations-Experience/dp/1491953283) by Peter Merholz
 11. [Design Leadership](https://www.amazon.com/Design-Leadership-Creating-Organizations-Experience/dp/1491953286) by Richard Banfield
+
 
 
 
