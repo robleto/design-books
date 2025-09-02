@@ -56,6 +56,8 @@ npm-debug.log*
 
 # Parcel-bundler cache
 .cache/
+.cache
+.cache/**
 
 # SASS cache
 .sass-cache/

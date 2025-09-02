@@ -21,7 +21,7 @@ console.log("Notion Page ID:", pageId);
 
 
 const crypto = require('crypto');
-const checksumFile = pathJoinSafe('../.cache-readme.sha1');
+const checksumFile = pathJoinSafe('../.cache/readme.sha1');
 
 function pathJoinSafe(p) { return require('path').join(__dirname, p); }
 
@@ -36,6 +36,9 @@ async function fetchNotionPage({ attempts = 3, delayMs = 2000 } = {}) {
 
       const newSha = computeSha(markdown.parent);
       let oldSha = 'NONE';
+      // Ensure cache directory exists
+      const cacheDir = require('path').dirname(checksumFile);
+      if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir, { recursive: true });
       if (fs.existsSync(checksumFile)) {
         oldSha = fs.readFileSync(checksumFile, 'utf8').trim();
       }
