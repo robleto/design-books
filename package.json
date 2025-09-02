@@ -11,6 +11,7 @@
   "lint": "eslint project --ext .js || true",
   "format": "prettier -w .",
   "test": "node test/snapshot.test.js",
+  "normalize": "node scripts/normalize-headings.js",
   "postinstall": "echo 'Dependencies installed'"
   },
   "dependencies": {

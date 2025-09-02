@@ -27,7 +27,10 @@ function pathJoinSafe(p) { return require('path').join(__dirname, p); }
 
 function computeSha(text) { return crypto.createHash('sha1').update(text).digest('hex'); }
 
-async function fetchNotionPage({ attempts = 3, delayMs = 2000 } = {}) {
+const DEFAULT_ATTEMPTS = parseInt(process.env.NOTION_MAX_ATTEMPTS || '3', 10);
+const DEFAULT_DELAY = parseInt(process.env.NOTION_RETRY_DELAY_MS || '2000', 10);
+
+async function fetchNotionPage({ attempts = DEFAULT_ATTEMPTS, delayMs = DEFAULT_DELAY } = {}) {
   let lastErr;
   for (let i = 1; i <= attempts; i++) {
     try {
@@ -59,7 +62,7 @@ async function fetchNotionPage({ attempts = 3, delayMs = 2000 } = {}) {
       const retriable = ["rate_limited", "internal_server_error"].some(code => (error.code || "").includes(code));
       console.error(`Attempt ${i}/${attempts} failed:`, error.message);
       if (i < attempts && retriable) {
-        await new Promise(r => setTimeout(r, delayMs * i));
+  await new Promise(r => setTimeout(r, delayMs * i));
         continue;
       }
       break;

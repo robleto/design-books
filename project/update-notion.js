@@ -8,7 +8,10 @@ const pageId = process.env.NOTION_PAGE_ID;
 // GitHub Commit Message
 const commitMessage = process.env.GITHUB_COMMIT_MSG;
 
-async function updateNotion({ attempts = 3, delayMs = 1500 } = {}) {
+const DEFAULT_UPDATE_ATTEMPTS = parseInt(process.env.NOTION_MAX_ATTEMPTS || '3', 10);
+const DEFAULT_UPDATE_DELAY = parseInt(process.env.NOTION_UPDATE_RETRY_DELAY_MS || '1500', 10);
+
+async function updateNotion({ attempts = DEFAULT_UPDATE_ATTEMPTS, delayMs = DEFAULT_UPDATE_DELAY } = {}) {
 	if (!process.env.NOTION_API_KEY || !pageId) {
 		console.error("❌ Missing NOTION_API_KEY or NOTION_PAGE_ID.");
 		process.exit(1);

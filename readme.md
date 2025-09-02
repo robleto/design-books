@@ -2,7 +2,7 @@
 ![design-books-22x.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c02d9193-ce5a-4f73-8c40-0df147913272/6a488e9a-b605-479e-adde-dc9f38d652e4/design-books-22x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Q4Q66ATJ%2F20250902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250902T001344Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIDb4FT21AWvYwdXMznfIputcXSnOqZ5fZHj6waW5PeV3AiEArx9scosjq10wJrvSGn5GW0ommR4O78uyQdbGOh21gQ0q%2FwMIIRAAGgw2Mzc0MjMxODM4MDUiDGjlfGjjK%2Bs%2FYy9MsCrcA88TV5F6DSMOOgfmBRhBmSg2a6o%2F7RcipQbv4MM1tZC9ytnhNC8LI36N1aN0I4gNKbBI5XMXHJpTtu8uxO%2BXxw9ljHshHtFZmJKtgjAHQMVMYH9N4G4%2FesUAhAcgXV1DIJUY51WLZINq1zn8btwxh6lEcVWoO71GbhPHfSt9DUD2nMoegGtoiDWxksEi3w%2FbBtqiBDrW1AVQbafetAK2%2BRkT4JN3xwz3sOXXPGERGufXUuyMg6JzSvQlhytQdEz6QSPs7DtwARkGGaIRxmBFzyzRMd1kDEXBeZfDYdxJ%2F4cCBMm76vOpBwqcG%2FqU2lbu1H%2ByWWeC4BKC5vbcIAe87WYdSXnlIbCK6PxKwLb8b0KiiKY60c%2FnOtXc0AIK8fkR%2FoQILfI84eIV534xZgvE4%2FRojGaA6om328spvEvZyGnxvOUT6eO0CoSZ5puKcPX4Hg6BwGH%2BIPHIG%2FfLCTKr8cbF0CvaIdv3FYcejk%2FpWdqk%2BoAvrM2%2BuE0Bdh%2Bbifi4ITjg43d9Peio31zmg4XYDVgBE3iedElznHcZFVY%2FZeWCFhGVSQ2FAir62KMNNI97X5vkScOlqPLsEluXzVgKijw5NO%2FqtXjfcZBHrqQRYCeH8LsuVeK9wYR7MujSMIjl2MUGOqUBIWdCOMIwe4ElDbvJxU5NedLznqj6Yq0jgC4jpiLwhCrBpAZ3r9m%2FGOMoQnik2j8Kq1nmtwi6V5jELOB6DK1JdgOch%2BLX9qR0kOucb1MZYde3UxYk2dCVGA8SaxcNyfzZ9yNCdDF9Wq4z4Bi3bccJNcxPh9EzCJRQT9o2%2BAOOeyLlNfpEmOdjx7PcfxkOmZxgQdMfZixo2HX2TYj1PnWlf9jU%2F16p&X-Amz-Signature=39fafb8b78b4d91d3a6caaf9d489f8e19f6ad0b0aa220a48d0e80513eb524c84&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
-# Design Books
+# Design Books [![CI](https://github.com/robleto/design-books/actions/workflows/ci.yml/badge.svg)](https://github.com/robleto/design-books/actions/workflows/ci.yml)
 
 
 _A curated collection of design books that have shaped my professional practice and personal development—curated by Greg Robleto (robleto.com)._ 
@@ -246,6 +246,17 @@ Set `DRY_RUN=1` to skip writing or updating:
 DRY_RUN=1 NOTION_API_KEY=... NOTION_PAGE_ID=... npm run notion:sync
 ```
 Works for both sync and update scripts.
+
+### Retry / Tuning Environment Variables
+
+You can tune behavior with optional environment variables (defaults shown):
+
+```
+NOTION_MAX_ATTEMPTS=3          # Retries for API fetch/update
+NOTION_RETRY_DELAY_MS=2000     # Base delay between retries (ms)
+NOTION_UPDATE_RETRY_DELAY_MS=1500 # Separate delay for update script
+DRY_RUN=0                      # Set to 1 to skip writes
+```
 
 ### Safety
 - Secrets never printed in full (only a prefix)

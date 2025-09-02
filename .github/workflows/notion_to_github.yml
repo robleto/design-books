@@ -43,6 +43,7 @@ jobs:
           # Pre-compute old checksum (if any)
           if [ -f ../readme.md ]; then
             sha_old=$(shasum ../readme.md | awk '{print $1}')
+            cp ../readme.md ../readme.before
           else
             sha_old="NONE"
           fi
@@ -52,6 +53,13 @@ jobs:
           echo "New README checksum: $sha_new"
           if [ "$sha_old" = "$sha_new" ]; then
             echo "No content change detected; skipping commit." > no_change.flag
+          else
+            # Normalize headings if changed
+            node ../scripts/normalize-headings.js
+            # Recalculate checksum if normalization modified file
+            sha_new_post=$(shasum ../readme.md | awk '{print $1}')
+            if [ "$sha_new_post" != "$sha_new" ]; then
+              echo "Checksum after normalization: $sha_new_post"; sha_new=$sha_new_post; fi
           fi
 
       # Step 5: Configure Git
@@ -83,6 +91,10 @@ jobs:
           if [ -f project/no_change.flag ]; then
             echo "No changes; skipping commit & push.";
             echo "skip=true" >> $GITHUB_OUTPUT;
+            if [ -f readme.before ]; then
+              echo "Diff summary (no change committed, checksums identical):";
+              git --no-pager diff --stat --color=never || true;
+            fi
             exit 0; fi
           git commit -m "Update: Fetched new Notion content"
           git push origin main
