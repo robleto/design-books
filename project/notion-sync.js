@@ -4,13 +4,20 @@ const fs = require("fs");
 require("dotenv").config();
 
 // Initialize Notion client
-const notion = new Client({ auth: process.env.NOTION_API_KEY });
-const n2m = new NotionToMarkdown({ notionClient: notion });
-
+const notionApiKey = process.env.NOTION_API_KEY;
 const pageId = process.env.NOTION_PAGE_ID; // Your Notion page ID
 
-console.log("Notion API Key:", process.env.NOTION_API_KEY);
-console.log("Notion Page ID:", process.env.NOTION_PAGE_ID);
+if (!notionApiKey || !pageId) {
+  console.error("❌ Missing NOTION_API_KEY or NOTION_PAGE_ID environment variables.");
+  process.exit(1);
+}
+
+const notion = new Client({ auth: notionApiKey });
+const n2m = new NotionToMarkdown({ notionClient: notion });
+
+// Only log a safe prefix of sensitive values
+console.log("Notion API Key prefix:", notionApiKey.slice(0, 4) + "***");
+console.log("Notion Page ID:", pageId);
 
 
 async function fetchNotionPage() {
