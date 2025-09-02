@@ -41,7 +41,6 @@ Thumbs.db
 # dotenv environment files
 .env
 .env.*
-.env.example
 
 # Coverage reports
 coverage/

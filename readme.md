@@ -211,4 +211,50 @@ _A curated collection of design books that have shaped my professional practice 
 
 .
 
+---
+
+## 🔄 Automation & Sync Workflows
+
+Two GitHub Actions power automated synchronization with Notion:
+
+1. `notion_to_github.yml` (hourly + manual) – Fetches a Notion page (NOTION_PAGE_ID) using NOTION_API_KEY, converts it to Markdown, overwrites `readme.md`, commits changes.
+2. `github_to_notion.yml` (on push to main) – Updates the Notion page title to reflect the latest commit message.
+
+### Required GitHub Secrets
+Add under Settings → Secrets and variables → Actions:
+- `NOTION_API_KEY`
+- `NOTION_PAGE_ID`
+
+### Local Setup
+Create `project/.env` from `project/.env.example` (never commit real values):
+```
+NOTION_API_KEY=ntn_...
+NOTION_PAGE_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+Install deps:
+```
+npm install
+```
+Run a sync:
+```
+NOTION_API_KEY=... NOTION_PAGE_ID=... npm run notion:sync
+```
+
+### Dry Run Mode
+Set `DRY_RUN=1` to skip writing or updating:
+```
+DRY_RUN=1 NOTION_API_KEY=... NOTION_PAGE_ID=... npm run notion:sync
+```
+Works for both sync and update scripts.
+
+### Safety
+- Secrets never printed in full (only a prefix)
+- `notion-output.log` ignored
+- History scrubbed to remove prior leaks
+
+### Roadmap Ideas
+- Diff-only commits (skip if unchanged)
+- Basic Markdown validation tests
+- Optional caching layer / rate-limit backoff improvements
+
 

@@ -20,17 +20,33 @@ console.log("Notion API Key prefix:", notionApiKey.slice(0, 4) + "***");
 console.log("Notion Page ID:", pageId);
 
 
-async function fetchNotionPage() {
-  try {
-    const mdBlocks = await n2m.pageToMarkdown(pageId);
-    const markdown = n2m.toMarkdownString(mdBlocks);
+async function fetchNotionPage({ attempts = 3, delayMs = 2000 } = {}) {
+  let lastErr;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      const mdBlocks = await n2m.pageToMarkdown(pageId);
+      const markdown = n2m.toMarkdownString(mdBlocks);
 
-    // Save to a markdown file
-    fs.writeFileSync("../readme.md", markdown.parent);
-    console.log("✅ Notion content synced as Markdown!");
-  } catch (error) {
-    console.error("❌ Error fetching Notion content:", error.message);
+      if (process.env.DRY_RUN === '1') {
+        console.log("[DRY_RUN] Would write README (length chars):", markdown.parent.length);
+      } else {
+        fs.writeFileSync("../readme.md", markdown.parent);
+        console.log("✅ Notion content synced as Markdown!");
+      }
+      return;
+    } catch (error) {
+      lastErr = error;
+      const retriable = ["rate_limited", "internal_server_error"].some(code => (error.code || "").includes(code));
+      console.error(`Attempt ${i}/${attempts} failed:`, error.message);
+      if (i < attempts && retriable) {
+        await new Promise(r => setTimeout(r, delayMs * i));
+        continue;
+      }
+      break;
+    }
   }
+  console.error("❌ Failed to fetch Notion content after retries:", lastErr && lastErr.message);
+  process.exit(1);
 }
 
 fetchNotionPage();
