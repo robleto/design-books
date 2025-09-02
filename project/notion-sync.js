@@ -20,6 +20,13 @@ console.log("Notion API Key prefix:", notionApiKey.slice(0, 4) + "***");
 console.log("Notion Page ID:", pageId);
 
 
+const crypto = require('crypto');
+const checksumFile = pathJoinSafe('../.cache-readme.sha1');
+
+function pathJoinSafe(p) { return require('path').join(__dirname, p); }
+
+function computeSha(text) { return crypto.createHash('sha1').update(text).digest('hex'); }
+
 async function fetchNotionPage({ attempts = 3, delayMs = 2000 } = {}) {
   let lastErr;
   for (let i = 1; i <= attempts; i++) {
@@ -27,11 +34,21 @@ async function fetchNotionPage({ attempts = 3, delayMs = 2000 } = {}) {
       const mdBlocks = await n2m.pageToMarkdown(pageId);
       const markdown = n2m.toMarkdownString(mdBlocks);
 
+      const newSha = computeSha(markdown.parent);
+      let oldSha = 'NONE';
+      if (fs.existsSync(checksumFile)) {
+        oldSha = fs.readFileSync(checksumFile, 'utf8').trim();
+      }
+      if (oldSha === newSha) {
+        console.log('No content change (checksum match); skipping write.');
+        return;
+      }
       if (process.env.DRY_RUN === '1') {
-        console.log("[DRY_RUN] Would write README (length chars):", markdown.parent.length);
+        console.log('[DRY_RUN] Would write README (chars):', markdown.parent.length, 'newSha:', newSha);
       } else {
-        fs.writeFileSync("../readme.md", markdown.parent);
-        console.log("✅ Notion content synced as Markdown!");
+        fs.writeFileSync('../readme.md', markdown.parent);
+        fs.writeFileSync(checksumFile, newSha + '\n');
+        console.log('✅ Notion content synced as Markdown! New checksum:', newSha);
       }
       return;
     } catch (error) {

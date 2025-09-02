@@ -25,12 +25,11 @@ jobs:
         with:
           node-version: '20'
 
-      # Step 3: Install dependencies in 'project' directory
+      # Step 3: Install dependencies (root consolidated)
       - name: Install dependencies
-        working-directory: ./project
         run: npm install
 
-      # Step 4: Fetch Notion Content (Debugging Output)
+      # Step 4: Fetch Notion Content (with checksum cache)
       - name: Fetch Notion Content
         working-directory: ./project
         env:
@@ -39,9 +38,19 @@ jobs:
         run: |
           echo "Using API Key: ${NOTION_API_KEY:0:4}***"
           echo "Using Page ID: ${NOTION_PAGE_ID}"
+          # Pre-compute old checksum (if any)
+          if [ -f ../readme.md ]; then
+            sha_old=$(shasum ../readme.md | awk '{print $1}')
+          else
+            sha_old="NONE"
+          fi
+          echo "Previous README checksum: $sha_old"
           node notion-sync.js > notion-output.log
-          echo "Fetched Notion Content:"
-          cat notion-output.log
+          sha_new=$(shasum ../readme.md | awk '{print $1}')
+          echo "New README checksum: $sha_new"
+          if [ "$sha_old" = "$sha_new" ]; then
+            echo "No content change detected; skipping commit." > no_change.flag
+          fi
 
       # Step 5: Configure Git
       - name: Configure Git
@@ -55,18 +64,22 @@ jobs:
           git fetch origin main
           git pull --rebase origin main || true
 
-      # Step 7: Track Untracked Files and Debug Changes
-      - name: Track Changes and Debug
+      # Step 7: Track changes only if README changed
+      - name: Track Changes (conditional)
         run: |
-          echo "Staging Files for Commit:"
-          git status
-          git add -A
+          if [ -f project/no_change.flag ]; then
+            echo "Skipping staging because no_change.flag present.";
+            exit 0;
+          fi
+          git add readme.md
           git status
 
-      # Step 8: Force Commit and Push Changes
+      # Step 8: Commit and Push (only if changed)
       - name: Commit and Push Changes
         run: |
-          git commit -m "Update: Fetched new Notion content" --allow-empty
+          if [ -f project/no_change.flag ]; then
+            echo "No changes; skipping commit & push."; exit 0; fi
+          git commit -m "Update: Fetched new Notion content"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

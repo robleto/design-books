@@ -20,10 +20,9 @@ jobs:
         with:
           node-version: '20'
 
-      # Step 3: Install Dependencies
+      # Step 3: Install Dependencies (root consolidated)
       - name: Install dependencies
-        run: |
-          npm install @notionhq/client dotenv
+        run: npm install
 
       # Step 4: Update Notion Page
       - name: Update Notion Page

@@ -8,8 +8,10 @@
     "migrate": "node migrate-images.js",
     "notion:sync": "node project/notion-sync.js",
     "notion:update": "node project/update-notion.js",
-    "lint": "echo 'No lint configured'",
-    "postinstall": "echo 'Dependencies installed'"
+  "lint": "eslint project --ext .js || true",
+  "format": "prettier -w .",
+  "test": "node test/snapshot.test.js",
+  "postinstall": "echo 'Dependencies installed'"
   },
   "dependencies": {
     "@notionhq/client": "2.2.15",
@@ -24,5 +26,9 @@
     "automation"
   ],
   "author": "Greg Robleto",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "8.57.0",
+    "prettier": "3.3.3"
+  }
 }
