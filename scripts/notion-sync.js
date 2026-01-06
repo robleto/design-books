@@ -30,6 +30,28 @@ function computeSha(text) { return crypto.createHash('sha1').update(text).digest
 const DEFAULT_ATTEMPTS = parseInt(process.env.NOTION_MAX_ATTEMPTS || '3', 10);
 const DEFAULT_DELAY = parseInt(process.env.NOTION_RETRY_DELAY_MS || '2000', 10);
 
+// Replace Notion AWS S3 URLs with local image paths
+function replaceNotionImages(markdown) {
+  const imageMap = {
+    'design-books-22x.png': 'public/images/design-books-header.png',
+    'header-01-blank.png': 'public/images/design-books-business.png',
+    'header-02-blank.png': 'public/images/design-books-product-design.png',
+    'header-03-blank.png': 'public/images/design-books-ux-research.png',
+    'header-04-blank.png': 'public/images/design-books-interaction-design.png',
+    'header-05-blank.png': 'public/images/design-books-user-interface-designer.png',
+    'header-06-blank.png': 'public/images/design-books-beginner-design.png',
+    'header-07-blank.png': 'public/images/design-books-design-management.png'
+  };
+
+  let result = markdown;
+  for (const [notionName, localPath] of Object.entries(imageMap)) {
+    // Replace any AWS S3 URL that contains the notion image filename
+    const regex = new RegExp(`!\\[${notionName}\\]\\(https://prod-files-secure\\.s3\\.us-west-2\\.amazonaws\\.com/[^)]+\\)`, 'g');
+    result = result.replace(regex, `![${notionName}](${localPath})`);
+  }
+  return result;
+}
+
 async function fetchNotionPage({ attempts = DEFAULT_ATTEMPTS, delayMs = DEFAULT_DELAY } = {}) {
   let lastErr;
   for (let i = 1; i <= attempts; i++) {
@@ -37,7 +59,10 @@ async function fetchNotionPage({ attempts = DEFAULT_ATTEMPTS, delayMs = DEFAULT_
       const mdBlocks = await n2m.pageToMarkdown(pageId);
       const markdown = n2m.toMarkdownString(mdBlocks);
 
-      const newSha = computeSha(markdown.parent);
+      // Replace Notion image URLs with local paths
+      const processedMarkdown = replaceNotionImages(markdown.parent);
+
+      const newSha = computeSha(processedMarkdown);
       let oldSha = 'NONE';
       // Ensure cache directory exists
       const cacheDir = require('path').dirname(checksumFile);
@@ -50,9 +75,9 @@ async function fetchNotionPage({ attempts = DEFAULT_ATTEMPTS, delayMs = DEFAULT_
         return;
       }
       if (process.env.DRY_RUN === '1') {
-        console.log('[DRY_RUN] Would write README (chars):', markdown.parent.length, 'newSha:', newSha);
+        console.log('[DRY_RUN] Would write README (chars):', processedMarkdown.length, 'newSha:', newSha);
       } else {
-        fs.writeFileSync('../readme.md', markdown.parent);
+        fs.writeFileSync('../readme.md', processedMarkdown);
         fs.writeFileSync(checksumFile, newSha + '\n');
         console.log('✅ Notion content synced as Markdown! New checksum:', newSha);
       }
