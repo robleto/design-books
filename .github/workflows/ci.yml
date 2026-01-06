@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-test-lint:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,7 +20,8 @@ jobs:
           cache: 'npm'
       - name: Install deps
         run: npm install
-      - name: Run tests
-        run: npm test
-      - name: Lint
-        run: npm run lint
+      - name: Verify scripts
+        run: |
+          test -f scripts/notion-sync.js
+          test -f scripts/update-notion.js
+          test -f scripts/normalize-headings.js

@@ -31,4 +31,4 @@ jobs:
           NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
           GITHUB_COMMIT_MSG: "${{ github.event.head_commit.message }}"
         run: |
-          node ./project/update-notion.js
+          node ./scripts/update-notion.js

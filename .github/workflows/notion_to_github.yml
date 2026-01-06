@@ -33,7 +33,6 @@ jobs:
 
       # Step 4: Fetch Notion Content (with checksum cache)
       - name: Fetch Notion Content
-        working-directory: ./project
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
@@ -41,23 +40,23 @@ jobs:
           echo "Using API Key: ${NOTION_API_KEY:0:4}***"
           echo "Using Page ID: ${NOTION_PAGE_ID}"
           # Pre-compute old checksum (if any)
-          if [ -f ../readme.md ]; then
-            sha_old=$(shasum ../readme.md | awk '{print $1}')
-            cp ../readme.md ../readme.before
+          if [ -f readme.md ]; then
+            sha_old=$(shasum readme.md | awk '{print $1}')
+            cp readme.md readme.before
           else
             sha_old="NONE"
           fi
           echo "Previous README checksum: $sha_old"
-          node notion-sync.js > notion-output.log
-          sha_new=$(shasum ../readme.md | awk '{print $1}')
+          node scripts/notion-sync.js > scripts/notion-output.log
+          sha_new=$(shasum readme.md | awk '{print $1}')
           echo "New README checksum: $sha_new"
           if [ "$sha_old" = "$sha_new" ]; then
             echo "No content change detected; skipping commit." > no_change.flag
           else
             # Normalize headings if changed
-            node ../scripts/normalize-headings.js
+            node scripts/normalize-headings.js
             # Recalculate checksum if normalization modified file
-            sha_new_post=$(shasum ../readme.md | awk '{print $1}')
+            sha_new_post=$(shasum readme.md | awk '{print $1}')
             if [ "$sha_new_post" != "$sha_new" ]; then
               echo "Checksum after normalization: $sha_new_post"; sha_new=$sha_new_post; fi
           fi
@@ -77,7 +76,7 @@ jobs:
       # Step 7: Track changes only if README changed
       - name: Track Changes (conditional)
         run: |
-          if [ -f project/no_change.flag ]; then
+          if [ -f no_change.flag ]; then
             echo "Skipping staging because no_change.flag present.";
             exit 0;
           fi
@@ -88,7 +87,7 @@ jobs:
       - name: Commit and Push Changes
         id: commit
         run: |
-          if [ -f project/no_change.flag ]; then
+          if [ -f no_change.flag ]; then
             echo "No changes; skipping commit & push.";
             echo "skip=true" >> $GITHUB_OUTPUT;
             if [ -f readme.before ]; then
