@@ -190,7 +190,7 @@ _A curated collection of design books that have shaped my professional practice 
 ---
 
 
-![header-07-blank.png](public/images/design-books-header.png)
+![header-07-blank.png](public/images/design-books-design-management.png)
 
 
 ## **07.  Design Management**
